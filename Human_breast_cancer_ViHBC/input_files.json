@@ -1,0 +1,32 @@
+{
+  "input_h5ad": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/Human_breast_cancer/Human_breast_cancer_ViHBC/Human_breast_cancer_integrated.h5ad",
+    "exists": true,
+    "bytes": 236234192,
+    "mtime_ns": 1794318691543050897
+  },
+  "final_h5ad": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/Human_breast_cancer_ViHBC/SpaCET_And_My/Human_breast_cancer_ViHBC_NicheCompassAndmy_Final_ForComponent.h5ad",
+    "exists": true,
+    "bytes": 184748853,
+    "mtime_ns": 1794396776511471186
+  },
+  "spacet_prediction_csv": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/Human_breast_cancer_ViHBC/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+    "exists": true,
+    "bytes": 164816,
+    "mtime_ns": 1794318698311210292
+  },
+  "spacet_threshold_csv": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/Human_breast_cancer_ViHBC/SpaCET/GMM_Optimal_Threshold_Result.csv",
+    "exists": true,
+    "bytes": 45,
+    "mtime_ns": 1794318698312210315
+  },
+  "spacet_fraction_csv": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/SpaCET_R_Result/Human_breast_cancer_ViHBC/SpaCET_CellFractions_Result.csv",
+    "exists": true,
+    "bytes": 2165408,
+    "mtime_ns": 1775456791484674274
+  }
+}

@@ -1,0 +1,8 @@
+﻿cluster,axes,original_n,remain_n,remain_fraction,cancelled
+0,Glutamine,360,360,1.0,False
+11,PGE2,169,168,0.9940828402366864,False
+15,Glutamine,133,133,1.0,False
+2,Glutamine,309,306,0.9902912621359223,False
+4,S1P,258,0,0.0,True
+7,PGE2;Glutamine,198,198,1.0,False
+8,S1P,194,2,0.010309278350515464,True
