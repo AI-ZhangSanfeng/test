@@ -1,0 +1,15 @@
+{
+  "before": {
+    "spots": "6e222cd6dd0c7db02e7a18366c9580a501d6ae45ffd96c3d9c0f230b485fc2be",
+    "clusters": "323e4464c574fc7adcec52c82a12e848fd61f71ecd850596c3cf76668be3fc8f",
+    "graph": "482ae6a16c9bee16ecefa6ca4ef162d4567edd1429e4bcd8912cd8c17ee1ee84",
+    "malignant": "6554547821a8db5a460a82e6ffdee2730c730e3e5afba2971becd414e4654ffe"
+  },
+  "after": {
+    "spots": "6e222cd6dd0c7db02e7a18366c9580a501d6ae45ffd96c3d9c0f230b485fc2be",
+    "clusters": "323e4464c574fc7adcec52c82a12e848fd61f71ecd850596c3cf76668be3fc8f",
+    "graph": "482ae6a16c9bee16ecefa6ca4ef162d4567edd1429e4bcd8912cd8c17ee1ee84",
+    "malignant": "6554547821a8db5a460a82e6ffdee2730c730e3e5afba2971becd414e4654ffe"
+  },
+  "passed": true
+}

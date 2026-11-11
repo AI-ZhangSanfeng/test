@@ -1,0 +1,10 @@
+﻿cluster,axes,original_n,remain_n,remain_fraction,cancelled
+1,Glutamate,389,8,0.02056555269922879,True
+11,PGE2,229,223,0.9737991266375546,False
+16,PGE2,65,65,1.0,False
+2,PGE2,358,358,1.0,False
+3,PGE2,358,355,0.9916201117318436,False
+5,Glutamine;Glutamate,312,127,0.40705128205128205,True
+6,Glutamine;Glutamate,263,33,0.12547528517110265,True
+7,PGE2,254,254,1.0,False
+8,PGE2,252,252,1.0,False

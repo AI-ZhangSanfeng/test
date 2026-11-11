@@ -1,0 +1,26 @@
+{
+  "status": "completed",
+  "protocol": "TuMeNiche_component_v1.0",
+  "engine_sha256": "55c0898a64f189e94b216d529464e78f8e756917e687a818977c81eeeec07101",
+  "sample_id": "LC1",
+  "cancer_type": "Lung",
+  "reconstruction": {
+    "level1_mismatch_n": 0,
+    "level2_mismatch_n": 0,
+    "level1_agreement": 1.0,
+    "level2_agreement": 1.0,
+    "status": "matched",
+    "note": "比较规范化后的活跃轴集合与 Level1/2；多轴排列次序不构成差异。"
+  },
+  "scmetabolism_reference": {
+    "status": "skipped",
+    "implementation": "original R scMetabolism::sc.metabolism",
+    "method": "AUCell",
+    "gene_sets": "package KEGG",
+    "imputation": false,
+    "used_for_10_axis_labels": false,
+    "reason": "Rscript not found; core 10-axis ablation remains valid"
+  },
+  "finished_utc": "2026-11-11T13:04:02.472665+00:00",
+  "strict_reconstruction": true
+}

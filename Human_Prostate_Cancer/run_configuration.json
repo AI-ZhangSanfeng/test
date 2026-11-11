@@ -1,0 +1,58 @@
+{
+  "protocol": "TuMeNiche_component_v1.0",
+  "engine_sha256": "55c0898a64f189e94b216d529464e78f8e756917e687a818977c81eeeec07101",
+  "sample": {
+    "input_h5ad": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/Human_Prostate_Cancer/Human_Prostate_Cancer_annotated.h5ad",
+    "final_h5ad": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/test/Human_Prostate_Cancer/SpaCET_And_My/Human_Prostate_Cancer_annotated_ForComponent.h5ad",
+    "spacet_fraction_csv": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/SpaCET_R_Result/Human_Prostate_Cancer/Human_Prostate_Cancer_CellFractions.csv",
+    "spacet_prediction_csv": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/test/Human_Prostate_Cancer/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+    "spacet_threshold_csv": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/test/Human_Prostate_Cancer/SpaCET/GMM_Optimal_Threshold_Result.csv",
+    "native_cluster_key": "latent_leiden_0.6",
+    "graph_key": "spatial_connectivities",
+    "pathology_column": "Pathology_Annotation",
+    "malignant_column": "Malignant",
+    "sample_id": "Human_Prostate_Cancer",
+    "cancer_type": "Prostate",
+    "gpu": "1",
+    "gate_offset": 0.25,
+    "axis_table_path": "/home/zhangjunyi/xiangmu/nichecompass-main/data/pre_data/siyuanzu/my_metabolite_network.csv",
+    "original_notebook": "myAndSpaCET_Human_Prostate_Cancer(1).ipynb",
+    "original_notebook_sha256": "82936c0efc7c29656987a7a239b0d0ecf9ef7ebda8198c60e2a7c00997c9cbe9",
+    "gt_rule": "prostate_invasive_vs_other"
+  },
+  "settings": {
+    "output_root": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/case/TuMeNiche_Component_Contribution",
+    "seed": 42,
+    "strict_reconstruction": true,
+    "force_recompute_aucell": false,
+    "run_scmetabolism_reference": true,
+    "rscript": "Rscript",
+    "scmetabolism_max_dense_gb": 8.0,
+    "scmetabolism_timeout_seconds": 3600,
+    "keep_scmetabolism_matrix": false,
+    "validation_gmt": null,
+    "progeny_net_csv": null,
+    "validation_min_genes": 10,
+    "spot_size": 9,
+    "axes_to_plot": [
+      "Lactate",
+      "Glutamine",
+      "S1P",
+      "LPA"
+    ]
+  },
+  "versions": {
+    "numpy": "1.23.5",
+    "pandas": "1.5.3",
+    "scipy": "1.12.0",
+    "scikit-learn": "1.6.1",
+    "anndata": "0.10.5.post1",
+    "decoupler": "1.4.0",
+    "matplotlib": "3.8.4",
+    "torch": "1.12.1+cu113",
+    "nichecompass": "0.2.0"
+  },
+  "python": "3.9.19 | packaged by conda-forge | (main, Mar 20 2024, 12:50:21) \n[GCC 12.3.0]",
+  "started_utc": "2026-11-11T12:58:30.357212+00:00",
+  "cuda_visible_devices": "1"
+}

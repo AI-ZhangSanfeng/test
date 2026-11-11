@@ -1,0 +1,4 @@
+﻿cluster,axes,original_n,remain_n,remain_fraction,cancelled
+2,PGE2,78,44,0.5641025641025641,False
+3,Lactate,72,67,0.9305555555555556,False
+4,Kynurenine,69,6,0.08695652173913043,True

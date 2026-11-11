@@ -1,0 +1,32 @@
+{
+  "input_h5ad": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/lung_cancer_and_kidney_cancer/LC5.h5ad",
+    "exists": true,
+    "bytes": 65772573,
+    "mtime_ns": 1794314579875171934
+  },
+  "final_h5ad": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/lung_cancer_and_kidney_cancer/LC5/SpaCET_And_My/lung_cancer_and_kidney_cancer_LC5_NicheCompassAndmy_Final_ForComponent.h5ad",
+    "exists": true,
+    "bytes": 89094540,
+    "mtime_ns": 1794402328902916097
+  },
+  "spacet_prediction_csv": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/lung_cancer_and_kidney_cancer/LC5/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+    "exists": true,
+    "bytes": 33942,
+    "mtime_ns": 1794314589027387752
+  },
+  "spacet_threshold_csv": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/lung_cancer_and_kidney_cancer/LC5/SpaCET/GMM_Optimal_Threshold_Result.csv",
+    "exists": true,
+    "bytes": 180,
+    "mtime_ns": 1794314589029387800
+  },
+  "spacet_fraction_csv": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/SpaCET_R_Result/lung_cancer_and_kidney_cancer/LC5/LC5_CellFractions.csv",
+    "exists": true,
+    "bytes": 361719,
+    "mtime_ns": 1779262034352368081
+  }
+}

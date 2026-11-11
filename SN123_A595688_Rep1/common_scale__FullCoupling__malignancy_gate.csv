@@ -1,0 +1,8 @@
+﻿cluster,axes,original_n,remain_n,remain_fraction,cancelled
+0,Kynurenine,76,76,1.0,False
+11,Glutamine,45,30,0.6666666666666666,False
+15,Lactate;Glutamine,41,30,0.7317073170731707,False
+17,Lactate;Glutamine,35,21,0.6,False
+18,Lactate,33,33,1.0,False
+4,Lactate,68,62,0.9117647058823529,False
+7,Lactate;Glutamine,61,44,0.7213114754098361,False

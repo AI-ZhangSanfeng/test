@@ -1,0 +1,89 @@
+{
+  "files": {
+    "input_h5ad": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/12_colorectal_cancer_CRC/12_colorectal_cancer_CRC_h5ad/SN123_A595688_Rep1.h5ad",
+      "exists": true,
+      "bytes": 95482929,
+      "mtime_ns": 1794269148855804108
+    },
+    "final_h5ad": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN123_A595688_Rep1/SpaCET_And_My/SN123_A595688_Rep1_NicheCompassAndmy_Final_ForComponent.h5ad",
+      "exists": true,
+      "bytes": 826731960,
+      "mtime_ns": 1794402705384757029
+    },
+    "spacet_prediction_csv": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN123_A595688_Rep1/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+      "exists": true,
+      "bytes": 60123,
+      "mtime_ns": 1794269157348003566
+    },
+    "spacet_threshold_csv": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN123_A595688_Rep1/SpaCET/GMM_Optimal_Threshold_Result.csv",
+      "exists": true,
+      "bytes": 44,
+      "mtime_ns": 1794269157351003636
+    },
+    "spacet_fraction_csv": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/SpaCET_R_Result/12_colorectal_cancer_CRC/SN123_A595688_Rep1/SpaCET_CellFractions_Result.csv",
+      "exists": true,
+      "bytes": 655407,
+      "mtime_ns": 1775456754443861489
+    }
+  },
+  "complete_shape": [
+    1111,
+    36601
+  ],
+  "frozen_shape": [
+    1111,
+    36601
+  ],
+  "full_spots_excluded": 0,
+  "valid_gt_spots": 1111,
+  "unmapped_gt_counts": {},
+  "pathology_column": "pathology_annotation",
+  "evaluation_map": {
+    "tumor": 1,
+    "tumor&stroma IC med to high": 1,
+    "stroma_fibroblastic_IC high": 0,
+    "epithelium&submucosa": 0,
+    "non neo epithelium": 0,
+    "submucosa": 0,
+    "IC aggregate_submucosa": 0,
+    "stroma_fibroblastic_IC med": 0,
+    "muscularis_IC med to high": 0,
+    "IC aggregate_muscularis or stroma": 0
+  },
+  "X_profile": {
+    "shape": [
+      1111,
+      36601
+    ],
+    "type": "csr_matrix",
+    "sparse": true,
+    "sample_size": 100000,
+    "sample_all_finite": true,
+    "sample_min": 1.0,
+    "sample_max": 864.0,
+    "sample_integer_like": true,
+    "provenance_note": "数值抽查不能单独证明是未经处理的原始 counts。"
+  },
+  "layers": [],
+  "raw_available": false,
+  "log1p_metadata": null,
+  "freeze": {
+    "spots": "3c9bb3e5220fcaa83190bfca56329a981e6487be8a23f3f4c0a08e05cbf59105",
+    "clusters": "02a97c30a6a7defd959428f507ae6ba44036df6cc0be27ea6d39968998d6b1dd",
+    "graph": "eef5870a47c462c3ea11b9881e7cfe726640196e13048b5d28d4ead132d177ef",
+    "malignant": "a9bb8ae02ceb8e675acc2f3e0278b3a79680de9f9cf115069cf75075ea77564a"
+  },
+  "prior_source": "/home/zhangjunyi/xiangmu/nichecompass-main/data/pre_data/siyuanzu/my_metabolite_network.csv",
+  "prior_sha256": "d5ea67857e2b002d7913d80fb8d8733102850279799cd769a1a7891ce57d32af",
+  "spacet_prediction_column": "Unsupervised_Pred_0.61",
+  "tumor_threshold": 0.609,
+  "threshold_prediction_agreement": 1.0,
+  "low_malignancy_gate": 0.509,
+  "original_union_agreement": 1.0,
+  "fixed_level2_roi": "initial SpaCET Predicted_Tumor, independent of score method"
+}

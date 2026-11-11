@@ -1,0 +1,83 @@
+{
+  "files": {
+    "input_h5ad": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/pancreatic_cancer/B1.h5ad",
+      "exists": true,
+      "bytes": 107433880,
+      "mtime_ns": 1794314591101436661
+    },
+    "final_h5ad": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/pancreatic_cancer/B1/SpaCET_And_My/pancreatic_cancer_B1_NicheCompassAndmy_Final_ForComponent.h5ad",
+      "exists": true,
+      "bytes": 138198775,
+      "mtime_ns": 1794402035479025617
+    },
+    "spacet_prediction_csv": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/pancreatic_cancer/B1/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+      "exists": true,
+      "bytes": 11162,
+      "mtime_ns": 1794314605482775788
+    },
+    "spacet_threshold_csv": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/pancreatic_cancer/B1/SpaCET/GMM_Optimal_Threshold_Result.csv",
+      "exists": true,
+      "bytes": 45,
+      "mtime_ns": 1794314605483775812
+    },
+    "spacet_fraction_csv": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/SpaCET_R_Result/pancreatic_cancer/B1/B1_CellFractions.csv",
+      "exists": true,
+      "bytes": 154483,
+      "mtime_ns": 1779257909967046518
+    }
+  },
+  "complete_shape": [
+    269,
+    15109
+  ],
+  "frozen_shape": [
+    268,
+    3027
+  ],
+  "full_spots_excluded": 1,
+  "valid_gt_spots": 268,
+  "unmapped_gt_counts": {},
+  "pathology_column": "label",
+  "evaluation_map": {
+    "invasive cancer": 1,
+    "connective tissue": 0,
+    "adipose tissue": 0,
+    "breast glands": 0
+  },
+  "X_profile": {
+    "shape": [
+      269,
+      15109
+    ],
+    "type": "ndarray",
+    "sparse": false,
+    "sample_size": 100000,
+    "sample_all_finite": true,
+    "sample_min": 0.0,
+    "sample_max": 142.0,
+    "sample_integer_like": true,
+    "provenance_note": "数值抽查不能单独证明是未经处理的原始 counts。"
+  },
+  "layers": [],
+  "raw_available": false,
+  "log1p_metadata": null,
+  "freeze": {
+    "spots": "ced70432bdef6f9be5d6d6ec119905513eaa8040c41fdb8def785286c8d9d908",
+    "clusters": "4e27e8a173dd8064f13bd03d15a0d5b9c8b0f011b1989a75970f8563d1358527",
+    "graph": "a03dc933b416f0cb0c7017ec3ebf277166a2a3b5c96fac5dfc886f21a0560996",
+    "malignant": "8f82fa98c79becca1be054345ac7ab42c9365d9420a6c34d1b3f9c9b876465e0"
+  },
+  "prior_source": "/home/zhangjunyi/xiangmu/nichecompass-main/data/pre_data/siyuanzu/my_metabolite_network.csv",
+  "prior_sha256": "d5ea67857e2b002d7913d80fb8d8733102850279799cd769a1a7891ce57d32af",
+  "spacet_prediction_column": "Unsupervised_Pred_0.74",
+  "tumor_threshold": 0.7428,
+  "threshold_prediction_agreement": 1.0,
+  "low_malignancy_gate": 0.6428,
+  "original_union_agreement": 1.0,
+  "fixed_level2_roi": "initial SpaCET Predicted_Tumor, independent of score method"
+}

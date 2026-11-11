@@ -1,0 +1,32 @@
+{
+  "input_h5ad": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/pancreatic_cancer/B1.h5ad",
+    "exists": true,
+    "bytes": 107433880,
+    "mtime_ns": 1794314591101436661
+  },
+  "final_h5ad": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/pancreatic_cancer/B1/SpaCET_And_My/pancreatic_cancer_B1_NicheCompassAndmy_Final_ForComponent.h5ad",
+    "exists": true,
+    "bytes": 138198775,
+    "mtime_ns": 1794402035479025617
+  },
+  "spacet_prediction_csv": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/pancreatic_cancer/B1/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+    "exists": true,
+    "bytes": 11162,
+    "mtime_ns": 1794314605482775788
+  },
+  "spacet_threshold_csv": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/pancreatic_cancer/B1/SpaCET/GMM_Optimal_Threshold_Result.csv",
+    "exists": true,
+    "bytes": 45,
+    "mtime_ns": 1794314605483775812
+  },
+  "spacet_fraction_csv": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/SpaCET_R_Result/pancreatic_cancer/B1/B1_CellFractions.csv",
+    "exists": true,
+    "bytes": 154483,
+    "mtime_ns": 1779257909967046518
+  }
+}

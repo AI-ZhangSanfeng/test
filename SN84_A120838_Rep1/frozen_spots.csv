@@ -1,0 +1,241 @@
+﻿spot_id,native_cluster,malignant,spacet_tumor,pathology,pathology_binary,valid_for_paired_metrics
+AAACGAGACGGTTGAT-1,4,0.177847113884555,False,stroma_fibroblastic_IC high,0.0,True
+AAACTGCTGGCTCCAA-1,1,1.0,True,tumor&stroma_IC med to high,1.0,True
+AAATTAACGGGTAGCT-1,2,0.0982839313572543,False,stroma_fibroblastic_IC high,0.0,True
+AACGTGCGAAAGTCTC-1,3,0.134165366614665,False,stroma_fibroblastic_IC high,0.0,True
+AAGACTGCAAGCTACT-1,0,0.620904836193448,True,tumor&stroma_IC med to high,1.0,True
+AAGAGCTCTTTATCGG-1,4,0.185647425897036,False,stroma_fibroblastic_IC high,0.0,True
+AAGAGGCATGGATCGC-1,4,0.193447737909516,False,stroma_fibroblastic_IC high,0.0,True
+AAGCTCGTGCCAAGTC-1,3,0.177847113884555,False,stroma_fibroblastic_IC high,0.0,True
+AATCGCCTCAGCGCCA-1,5,0.291731669266771,False,stroma_fibroblastic_IC med,0.0,True
+AATGACGTAGGATGTC-1,0,0.162246489859594,False,tumor&stroma_IC med to high,1.0,True
+ACAACAGCATGAGCTA-1,1,0.976599063962558,True,tumor&stroma_IC med to high,1.0,True
+ACAAGGGCAGGCTCTG-1,4,0.25585023400936,False,stroma_fibroblastic_IC high,0.0,True
+ACAATTTGAGCAGTGG-1,0,0.25585023400936,False,stroma_fibroblastic_IC high,0.0,True
+ACACGAGACTCCTTCT-1,1,1.0,True,tumor&stroma_IC med to high,1.0,True
+ACATCGATCGTTTACC-1,0,0.305772230889236,False,stroma_fibroblastic_IC low,0.0,True
+ACGCATTCGTGAGTAC-1,2,0.126365054602184,False,stroma_fibroblastic_IC high,0.0,True
+ACGCCGCTAGACGACC-1,1,0.985959438377535,True,tumor,1.0,True
+ACGCGGGCCAAGGACA-1,2,0.135725429017161,False,stroma_fibroblastic_IC high,0.0,True
+ACGGCACTTGCTTGGG-1,1,1.0,True,tumor,1.0,True
+ACGGCCAACATGGACT-1,1,0.898595943837754,True,tumor,1.0,True
+ACGTAGATTGCTGATG-1,0,0.308892355694228,False,stroma_fibroblastic_IC high,0.0,True
+ACGTTAATGTCGAAGA-1,5,0.528861154446178,True,stroma_fibroblastic_IC low,0.0,True
+ACTCGTCAGTAATCCC-1,4,0.112324492979719,False,stroma_fibroblastic_IC high,0.0,True
+ACTCTCTGACTTAGGT-1,3,0.0717628705148206,False,stroma_fibroblastic_IC high,0.0,True
+ACTCTTGTATAGTAAC-1,0,0.112324492979719,False,tumor&stroma_IC med to high,1.0,True
+ACTGTACGATACACAT-1,5,0.861154446177847,True,tumor,1.0,True
+ACTGTCTTCTTTAGAA-1,0,0.433697347893916,False,stroma_fibroblastic_IC low,0.0,True
+ACTTCGCCATACGCAC-1,3,0.377535101404056,False,tumor,1.0,True
+ACTTGACTCCCTCTTT-1,1,0.765990639625585,True,tumor&stroma_IC med to high,1.0,True
+AGATCTCAGGTGTGAT-1,8,0.979719188767551,True,tumor&stroma_IC med to high,1.0,True
+AGCGTGGTATTCTACT-1,8,0.634945397815913,True,tumor&stroma_IC med to high,1.0,True
+AGCTCTAGACGTTCCA-1,4,0.140405616224649,False,stroma_fibroblastic_IC high,0.0,True
+AGGGCTGCAGTTACAG-1,6,0.166926677067083,False,stroma_fibroblastic_IC high,0.0,True
+AGGGTTTAGTTCGGGA-1,6,0.149765990639626,False,stroma_fibroblastic_IC high,0.0,True
+AGGTTTCACACACCTT-1,8,0.542901716068643,True,stroma_fibroblastic_IC low,0.0,True
+AGTTCCTATTTATGTT-1,7,0.578783151326053,True,stroma_fibroblastic_IC low,0.0,True
+ATAACGCCGGAGGGTC-1,3,0.121684867394696,False,stroma_fibroblastic_IC high,0.0,True
+ATACGCCGGCGAAACC-1,4,0.18408736349454,False,stroma_fibroblastic_IC med,0.0,True
+ATATCTTAGGGCCTTC-1,2,0.0858034321372855,False,stroma_fibroblastic_IC high,0.0,True
+ATCAATCTGGGCTGCA-1,0,0.230889235569423,False,stroma_fibroblastic_IC high,0.0,True
+ATCATCCAATATTTGT-1,2,0.137285491419657,False,stroma_fibroblastic_IC high,0.0,True
+ATCGACCCAATACAGA-1,3,0.478939157566303,True,stroma_fibroblastic_IC low,0.0,True
+ATGCCGGTCTTGCATA-1,1,1.0,True,tumor,1.0,True
+ATGCGACAGTCCCATT-1,3,0.190327613104524,False,stroma_fibroblastic_IC high,0.0,True
+ATGGAGCAGGCCGTGA-1,0,0.402496099843994,False,tumor&stroma_IC med to high,1.0,True
+ATTAAACATGCGGACC-1,2,0.299531981279251,False,stroma_fibroblastic_IC low,0.0,True
+ATTAGGCGATGCTTTC-1,0,0.0842433697347894,False,stroma_fibroblastic_IC high,0.0,True
+CAAGAGGGCGGAGTAC-1,0,0.301092043681747,False,stroma_fibroblastic_IC high,0.0,True
+CAAGGATCGCATGTTC-1,5,0.859594383775351,True,tumor&stroma_IC low,1.0,True
+CAATTTCGTATAAGGG-1,0,0.132605304212169,False,stroma_fibroblastic_IC high,0.0,True
+CACAGCACCCACGGCA-1,2,0.118564742589704,False,stroma_fibroblastic_IC high,0.0,True
+CACATGATTCAGCAAC-1,5,0.427457098283931,False,stroma_fibroblastic_IC low,0.0,True
+CACGTTCGTGCTCTAG-1,4,0.52418096723869,True,tumor&stroma_IC med to high,1.0,True
+CAGAGACGGTCACCCA-1,1,1.0,True,tumor,1.0,True
+CAGCAGCCCGTTCCTT-1,0,0.669266770670827,True,tumor&stroma_IC med to high,1.0,True
+CAGCTCACTGAGACAT-1,2,0.129485179407176,False,stroma_fibroblastic_IC high,0.0,True
+CAGGATATATCGTTGT-1,6,0.324492979719189,False,stroma_fibroblastic_IC low,0.0,True
+CAGTCTGTATACTGGG-1,7,0.472698907956318,True,stroma_fibroblastic_IC low,0.0,True
+CATACGGCGTCTGGGC-1,7,0.619344773790952,True,stroma_fibroblastic_IC low,0.0,True
+CATCGGACGGGTTAAT-1,2,0.193447737909516,False,stroma_fibroblastic_IC high,0.0,True
+CCAAGCGTAACTCGTA-1,5,0.619344773790952,True,stroma_fibroblastic_IC low,0.0,True
+CCACCCAAGGAAAGTG-1,4,0.124804992199688,False,stroma_fibroblastic_IC high,0.0,True
+CCAGCCTGGACCAATA-1,3,0.318252730109204,False,tumor&stroma_IC med to high,1.0,True
+CCCAGTTAAGGCGCCG-1,6,0.0,False,stroma_fibroblastic_IC med,0.0,True
+CCGCACAAAGACCAAC-1,4,0.176287051482059,False,stroma_fibroblastic_IC high,0.0,True
+CCGGGCGGTCTCGTCA-1,5,0.867394695787832,True,tumor&stroma_IC med to high,1.0,True
+CCGTAAGTTGGTCCCA-1,7,0.50390015600624,True,stroma_fibroblastic_IC high,0.0,True
+CCTAAATTAACGGTTC-1,1,0.736349453978159,True,stroma_fibroblastic_IC high,0.0,True
+CCTATGGGTTACCGTC-1,8,0.895475819032761,True,tumor,1.0,True
+CCTGTCACCCGGGCTC-1,5,0.58814352574103,True,tumor,1.0,True
+CCTGTCGCCCGTAAAT-1,6,0.0904836193447738,False,stroma_fibroblastic_IC high,0.0,True
+CGAGACCCTAGAGTGT-1,0,0.394695787831513,False,stroma_fibroblastic_IC low,0.0,True
+CGAGAGATGTGAACCT-1,1,1.0,True,tumor,1.0,True
+CGAGGCTAAATATGGC-1,1,1.0,True,tumor,1.0,True
+CGAGGGACTGCGGTCG-1,7,0.234009360374415,False,stroma_fibroblastic_IC high,0.0,True
+CGCATGGTGCGATGCT-1,8,1.0,True,tumor,1.0,True
+CGCCTCCCTCCTCTAT-1,1,0.970358814352574,True,tumor,1.0,True
+CGCGGGAATTAGGCAG-1,0,0.480499219968799,True,tumor,1.0,True
+CGCTATTCTTAGGCTC-1,6,0.0951638065522621,False,stroma_fibroblastic_IC high,0.0,True
+CGCTTTCTTGCATTCG-1,3,0.388455538221529,False,stroma_fibroblastic_IC med,0.0,True
+CGGAGCATGGCGATCC-1,1,1.0,True,tumor,1.0,True
+CGGCCACGCACAAAGT-1,2,0.093603744149766,False,stroma_fibroblastic_IC high,0.0,True
+CGGGAATTTATGTAAA-1,8,0.923556942277691,True,tumor&stroma_IC med to high,1.0,True
+CGGTCAAGTGGGAACC-1,6,0.56786271450858,True,tumor,1.0,True
+CGTGCAGACTGGGACA-1,3,0.0,False,stroma_fibroblastic_IC med,0.0,True
+CGTGCCCTCCCGAAGA-1,4,0.146645865834633,False,stroma_fibroblastic_IC high,0.0,True
+CGTTGAGCGACCGTCG-1,5,0.569422776911076,True,stroma_fibroblastic_IC high,0.0,True
+CTAAAGGGAAATAGGA-1,0,0.546021840873635,True,stroma_fibroblastic_IC low,0.0,True
+CTAAGGGAATGATTGG-1,1,0.990639625585023,True,tumor,1.0,True
+CTACGCACGGAGTACC-1,2,0.0421216848673947,False,stroma_fibroblastic_IC high,0.0,True
+CTAGATTTACGACGGC-1,5,0.695787831513261,True,tumor&stroma_IC med to high,1.0,True
+CTAGCATAGTATAATG-1,0,0.159126365054602,False,stroma_fibroblastic_IC high,0.0,True
+CTAGTCACGTCTTAAG-1,0,0.296411856474259,False,tumor&stroma_IC med to high,1.0,True
+CTATCGGGTCTCAACA-1,0,0.154446177847114,False,stroma_fibroblastic_IC high,0.0,True
+CTATGTCACTAGCCCA-1,7,0.619344773790952,True,stroma_fibroblastic_IC low,0.0,True
+CTATTTGGTTACGGAT-1,3,0.0655226209048362,False,stroma_fibroblastic_IC high,0.0,True
+CTCGGTACCACTGCTC-1,0,0.109204368174727,False,stroma_fibroblastic_IC med,0.0,True
+CTCTCACAATCGATGA-1,1,0.822152886115445,True,stroma_fibroblastic_IC low,0.0,True
+CTCTGGACGCCTGGTG-1,2,0.213728549141966,False,stroma_fibroblastic_IC high,0.0,True
+CTGCCATGCATCACAT-1,0,0.511700468018721,True,tumor&stroma_IC low,1.0,True
+CTGGGTAGGCAGTTAA-1,2,0.0327613104524181,False,stroma_fibroblastic_IC high,0.0,True
+CTGTGCAGGGTAGGTC-1,1,0.845553822152886,True,tumor&stroma_IC med to high,1.0,True
+CTTCATTGTCAGTGGA-1,2,0.0171606864274571,False,stroma_fibroblastic_IC high,0.0,True
+CTTGTTGCTGAGTCAA-1,5,0.784711388455538,True,tumor&stroma_IC med to high,1.0,True
+CTTTAGTGCTATTATT-1,7,0.581903276131045,True,tumor&stroma_IC med to high,1.0,True
+GAAGCGTGAGGAATTT-1,2,0.129485179407176,False,stroma_fibroblastic_IC high,0.0,True
+GAAGTCAGTTGCACTA-1,1,0.968798751950078,True,tumor,1.0,True
+GAATCTGAACATTCTC-1,0,0.429017160686427,False,stroma_fibroblastic_IC low,0.0,True
+GAATGTGGTCCGGATT-1,2,0.0,False,stroma_fibroblastic_IC high,0.0,True
+GAATTATAGTGAAAGG-1,0,0.216848673946958,False,stroma_fibroblastic_IC high,0.0,True
+GACACAAGGGAAGAAA-1,1,1.0,True,tumor,1.0,True
+GAGACTTCGCGACCGA-1,1,0.962558502340094,True,tumor,1.0,True
+GAGATCTGTCACTCCG-1,1,1.0,True,tumor,1.0,True
+GAGATCTTCCATGACA-1,6,0.123244929797192,False,stroma_fibroblastic_IC high,0.0,True
+GAGCTAAGGGCATATC-1,0,0.46801872074883,True,tumor&stroma_IC med to high,1.0,True
+GATATGAGACACTAAC-1,5,0.691107644305772,True,tumor&stroma_IC med to high,1.0,True
+GATCCGGGAATTAACA-1,0,0.132605304212169,False,stroma_fibroblastic_IC high,0.0,True
+GATCGGTGGCCATAAC-1,8,0.761310452418097,True,tumor,1.0,True
+GATCGTGACTGATATC-1,0,0.141965678627145,False,stroma_fibroblastic_IC high,0.0,True
+GATCTTGGAGGGCATA-1,1,1.0,True,tumor,1.0,True
+GATGCGTCCTGCATTC-1,2,0.0842433697347894,False,stroma_fibroblastic_IC high,0.0,True
+GATGCTGTATTTCATC-1,7,0.745709828393136,True,stroma_fibroblastic_IC high,0.0,True
+GATTCGACGGTTCACG-1,5,0.586583463338534,True,stroma_fibroblastic_IC high,0.0,True
+GCAGATTAGGGATATC-1,6,0.0842433697347894,False,stroma_fibroblastic_IC high,0.0,True
+GCATAGAGCACTCAGG-1,2,0.0608424336973479,False,stroma_fibroblastic_IC high,0.0,True
+GCCCGTAATACCTTCT-1,0,0.625585023400936,True,tumor,1.0,True
+GCCGATTGGCCAAGCT-1,6,0.315132605304212,False,stroma_fibroblastic_IC low,0.0,True
+GCCGGGTTAGGGTCGC-1,2,0.182527301092044,False,stroma_fibroblastic_IC high,0.0,True
+GCGAAGCCATACCCGT-1,6,0.201248049921997,False,stroma_fibroblastic_IC low,0.0,True
+GCGAGTTCTGCAAAGA-1,6,0.129485179407176,False,stroma_fibroblastic_IC high,0.0,True
+GCGATTGTTAACGTTA-1,4,0.157566302652106,False,stroma_fibroblastic_IC high,0.0,True
+GCGCCGTTCCACGATA-1,4,0.4399375975039,False,stroma_fibroblastic_IC low,0.0,True
+GCGCTAATTGAATAGA-1,3,0.310452418096724,False,stroma_fibroblastic_IC high,0.0,True
+GCTAAGTAGTTTCTCT-1,4,0.196567862714509,False,stroma_fibroblastic_IC high,0.0,True
+GCTACGACTTATTGGG-1,1,1.0,True,tumor,1.0,True
+GCTAGTAGAGCTTGTA-1,8,1.0,True,tumor&stroma_IC med to high,1.0,True
+GCTGAGGCGTGAGTAT-1,5,0.920436817472699,True,tumor,1.0,True
+GCTGCACGGTTTCTTA-1,7,0.371294851794072,False,stroma_fibroblastic_IC med,0.0,True
+GCTGCTCTCCGGACAC-1,6,0.307332293291732,False,stroma_fibroblastic_IC low,0.0,True
+GCTTCCGTCCCTAGAC-1,5,0.661466458658346,True,stroma_fibroblastic_IC high,0.0,True
+GGAATGCGCTAGCGTG-1,7,0.265210608424337,False,stroma_fibroblastic_IC high,0.0,True
+GGAGACGACACCTTTG-1,1,0.854914196567863,True,tumor&stroma_IC med to high,1.0,True
+GGAGGGCTTGGTTGGC-1,5,0.658346333853354,True,stroma_fibroblastic_IC high,0.0,True
+GGATCCGGAATATACT-1,0,0.135725429017161,False,stroma_fibroblastic_IC med,0.0,True
+GGATTTCACTTCTATA-1,3,0.399375975039002,False,stroma_fibroblastic_IC high,0.0,True
+GGCAAGGCGAAATAGC-1,1,0.873634945397816,True,tumor&stroma_IC med to high,1.0,True
+GGCAATAGTCAATGAG-1,1,1.0,True,tumor,1.0,True
+GGCGGTAGGATCATTG-1,1,0.906396255850234,True,stroma_fibroblastic_IC low,0.0,True
+GGGACTGCATAGATAG-1,2,0.177847113884555,False,stroma_fibroblastic_IC high,0.0,True
+GGGAGAACTCACAGTA-1,0,0.315132605304212,False,stroma_fibroblastic_IC high,0.0,True
+GGGAGTTAATGAGGCG-1,7,0.430577223088924,False,stroma_fibroblastic_IC low,0.0,True
+GGGCTGCCTAGGGCGA-1,3,0.463338533541342,True,stroma_fibroblastic_IC high,0.0,True
+GGTAGTGCTCGCACCA-1,3,0.341653666146646,False,stroma_fibroblastic_IC high,0.0,True
+GGTCGGCCAGGAGCTT-1,3,0.273010920436818,False,stroma_fibroblastic_IC med,0.0,True
+GGTCTGAGAATCTGGA-1,7,0.71606864274571,True,tumor,1.0,True
+GGTGATAAGGAGCAGT-1,5,0.310452418096724,False,tumor&stroma_IC med to high,1.0,True
+GTAAGTAACAGTCTGG-1,4,0.344773790951638,False,stroma_fibroblastic_IC high,0.0,True
+GTACACTTACCTGAAG-1,0,0.138845553822153,False,stroma_fibroblastic_IC high,0.0,True
+GTACAGAGGCAAGGGT-1,7,0.113884555382215,False,tumor&stroma_IC med to high,1.0,True
+GTACGTTTGCCCGTCA-1,1,0.985959438377535,True,tumor,1.0,True
+GTACTGGAGTTAGACC-1,4,0.190327613104524,False,stroma_fibroblastic_IC high,0.0,True
+GTAGCGGCTATACACT-1,7,0.705148205928237,True,tumor&stroma_IC low,1.0,True
+GTCAAGCGGACTCGGG-1,3,0.149765990639626,False,stroma_fibroblastic_IC high,0.0,True
+GTCATTAGAGCGAACG-1,3,0.36817472698908,False,tumor,1.0,True
+GTCCCAACGTAAAGTA-1,5,0.591263650546022,True,stroma_fibroblastic_IC low,0.0,True
+GTCGCGTAACCCGTTG-1,3,0.0280811232449298,False,stroma_fibroblastic_IC high,0.0,True
+GTCGTTATTCGCTTAT-1,0,0.0,False,stroma_fibroblastic_IC high,0.0,True
+GTGAGGACACTTAAGG-1,4,0.121684867394696,False,stroma_fibroblastic_IC med,0.0,True
+GTGAGTGGTACAACGC-1,1,0.968798751950078,True,tumor,1.0,True
+GTGTGAATAACTTAGG-1,3,0.170046801872075,False,stroma_fibroblastic_IC med,0.0,True
+GTGTTACTATGCGTCC-1,4,0.271450858034321,False,stroma_fibroblastic_IC med,0.0,True
+GTTTCTGCAGTCTCCC-1,3,0.188767550702028,False,stroma_fibroblastic_IC med,0.0,True
+GTTTGGCCCAAGTTAT-1,6,0.0249609984399376,False,stroma_fibroblastic_IC med,0.0,True
+GTTTGGTAGGGTCAAC-1,1,0.93603744149766,True,tumor,1.0,True
+TAACATACAATGTGGG-1,0,0.332293291731669,False,stroma_fibroblastic_IC high,0.0,True
+TACATAGGCATACACC-1,6,0.204368174726989,False,stroma_fibroblastic_IC high,0.0,True
+TACGACTGCCTCTTAG-1,8,0.987519500780031,True,tumor,1.0,True
+TACGCCATATTCTAAT-1,2,0.15600624024961,False,stroma_fibroblastic_IC high,0.0,True
+TAGAAAGGTGGCGCTA-1,7,0.625585023400936,True,tumor&stroma_IC med to high,1.0,True
+TAGCGTTGGGTCTTAC-1,7,0.539781591263651,True,tumor&stroma_IC low,1.0,True
+TAGCTAGAAGGCATGA-1,1,0.500780031201248,True,stroma_fibroblastic_IC med,0.0,True
+TAGGTTCGAGTTCGTC-1,0,0.149765990639626,False,stroma_fibroblastic_IC high,0.0,True
+TATCTACCACAGCGGG-1,2,0.293291731669267,False,stroma_fibroblastic_IC low,0.0,True
+TATGGGACCGAGCAGG-1,2,0.0171606864274571,False,stroma_fibroblastic_IC high,0.0,True
+TATGGGTACGTATCGT-1,2,0.101404056162247,False,stroma_fibroblastic_IC high,0.0,True
+TATGGTCTGAGTAACA-1,2,0.0,False,stroma_fibroblastic_IC high,0.0,True
+TATGTCTCATTGTGCC-1,4,0.72386895475819,True,tumor,1.0,True
+TATTCAATTCTAATCC-1,3,0.351014040561622,False,stroma_fibroblastic_IC high,0.0,True
+TATTCGTGCCAGAATA-1,6,0.146645865834633,False,stroma_fibroblastic_IC high,0.0,True
+TCAAACTTAGATTGTT-1,4,0.461778471138846,False,stroma_fibroblastic_IC low,0.0,True
+TCACGTGCCCGATTCA-1,0,0.307332293291732,False,stroma_fibroblastic_IC high,0.0,True
+TCAGCAAATGCATCTC-1,1,1.0,True,tumor,1.0,True
+TCAGGGTGTAACGTAA-1,8,0.862714508580343,True,tumor,1.0,True
+TCCACTTTATCTAGGT-1,5,0.781591263650546,True,tumor&stroma_IC med to high,1.0,True
+TCCAGAGCACCGGTTC-1,7,0.344773790951638,False,stroma_fibroblastic_IC low,0.0,True
+TCCCAGCTTTAGTCTG-1,2,0.0499219968798752,False,stroma_fibroblastic_IC high,0.0,True
+TCCCGTGTGCAATTTG-1,2,0.0,False,stroma_fibroblastic_IC high,0.0,True
+TCCGCGGCAGCATCTG-1,0,0.0639625585023401,False,stroma_fibroblastic_IC med,0.0,True
+TCCGGTTCGTCCGGTC-1,1,0.770670826833073,True,tumor&stroma_IC med to high,1.0,True
+TCCTCGGGCTGGGCTT-1,3,0.138845553822153,False,stroma_fibroblastic_IC med,0.0,True
+TCCTTTCTTACGCTTA-1,6,0.254290171606864,False,stroma_fibroblastic_IC low,0.0,True
+TCGGACGCCCAGCCCA-1,7,0.315132605304212,False,stroma_fibroblastic_IC high,0.0,True
+TCGGAGTACATGAGTA-1,1,0.990639625585023,True,tumor,1.0,True
+TCGTAAGACGACATTG-1,0,0.249609984399376,False,tumor&stroma_IC med to high,1.0,True
+TCGTTAGGAGTCCCTA-1,1,0.848673946957878,True,tumor,1.0,True
+TCTGCCAGAAACTGCA-1,0,0.115444617784711,False,stroma_fibroblastic_IC med,0.0,True
+TCTGTGCCATCATAGT-1,5,0.326053042121685,False,stroma_fibroblastic_IC high,0.0,True
+TCTTCGAATAGACGTT-1,4,0.177847113884555,False,stroma_fibroblastic_IC low,0.0,True
+TCTTCGATACCAATAA-1,4,0.492979719188768,True,stroma_fibroblastic_IC high,0.0,True
+TCTTGATGCGTAGCGA-1,5,0.585023400936037,True,stroma_fibroblastic_IC low,0.0,True
+TGAAAGGACCTGACTC-1,0,0.0452418096723869,False,stroma_fibroblastic_IC med,0.0,True
+TGAGTGGTCCGTGACG-1,3,0.606864274570983,True,tumor&stroma_IC med to high,1.0,True
+TGCATGTGGTAATCTA-1,3,0.371294851794072,False,tumor&stroma_IC med to high,1.0,True
+TGCCCGTACCGTTAAA-1,3,0.226209048361935,False,stroma_fibroblastic_IC high,0.0,True
+TGCGCAAAGCATTTGG-1,8,0.747269890795632,True,stroma_fibroblastic_IC low,0.0,True
+TGCGTTTGTTGACACT-1,5,0.321372854914197,False,stroma_fibroblastic_IC high,0.0,True
+TGCTGTTGAAGAACTC-1,5,0.736349453978159,True,stroma_fibroblastic_IC low,0.0,True
+TGGACTGTTCGCTCAA-1,0,0.0951638065522621,False,stroma_fibroblastic_IC high,0.0,True
+TGGCAGATTACGATCA-1,2,0.280811232449298,False,stroma_fibroblastic_IC high,0.0,True
+TGGCAGCAGTAATAGT-1,6,0.266770670826833,False,stroma_fibroblastic_IC high,0.0,True
+TGGCCAAACTGAAGTA-1,4,0.605304212168487,True,tumor,1.0,True
+TGGCGATCAAGTTATG-1,1,0.962558502340094,True,tumor,1.0,True
+TGTACGAACAAATCCG-1,2,0.121684867394696,False,stroma_fibroblastic_IC high,0.0,True
+TGTATAACAGATCCTG-1,4,0.806552262090484,True,tumor,1.0,True
+TTAATGTAGACCAGGT-1,5,0.811232449297972,True,tumor&stroma_IC med to high,1.0,True
+TTACTCCGGCCGGGAA-1,4,0.237129485179407,False,stroma_fibroblastic_IC high,0.0,True
+TTATATACGCTGTCAC-1,3,0.0702028081123245,False,stroma_fibroblastic_IC high,0.0,True
+TTATGAATGAAAGGGA-1,3,0.390015600624025,False,stroma_fibroblastic_IC low,0.0,True
+TTATGATCTTAACGAA-1,5,0.352574102964119,False,tumor&stroma_IC med to high,1.0,True
+TTCAAAGTCTCTAGCC-1,3,0.168486739469579,False,stroma_fibroblastic_IC high,0.0,True
+TTCGGGACTAATCGCG-1,0,0.0826833073322933,False,stroma_fibroblastic_IC high,0.0,True
+TTCTGCGGGTTAGCGG-1,7,0.252730109204368,False,stroma_fibroblastic_IC med,0.0,True
+TTGAATATGGACTTTC-1,4,0.28393135725429,False,stroma_fibroblastic_IC high,0.0,True
+TTGCACAATTCAGAAA-1,2,0.193447737909516,False,stroma_fibroblastic_IC high,0.0,True
+TTGCTGATCATGTTCG-1,2,0.0670826833073323,False,stroma_fibroblastic_IC high,0.0,True
+TTGGGACACTGCCCGC-1,8,0.956318252730109,True,tumor,1.0,True
+TTGGGCGGCGGTTGCC-1,1,0.970358814352574,True,tumor,1.0,True
+TTGTAAGGCCAGTTGG-1,6,0.516380655226209,True,tumor&stroma_IC med to high,1.0,True
+TTGTAATCCGTACTCG-1,2,0.0,False,stroma_fibroblastic_IC high,0.0,True
+TTGTTGTGTGTCAAGA-1,8,0.870514820592824,True,tumor&stroma_IC med to high,1.0,True

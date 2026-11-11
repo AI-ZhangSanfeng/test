@@ -1,0 +1,32 @@
+{
+  "input_h5ad": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/Human_Prostate_Cancer/Human_Prostate_Cancer_annotated.h5ad",
+    "exists": true,
+    "bytes": 217044609,
+    "mtime_ns": 1794318729208937951
+  },
+  "final_h5ad": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/test/Human_Prostate_Cancer/SpaCET_And_My/Human_Prostate_Cancer_annotated_ForComponent.h5ad",
+    "exists": true,
+    "bytes": 190746368,
+    "mtime_ns": 1794401509438663129
+  },
+  "spacet_prediction_csv": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/test/Human_Prostate_Cancer/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+    "exists": true,
+    "bytes": 237085,
+    "mtime_ns": 1776580840344511759
+  },
+  "spacet_threshold_csv": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/test/Human_Prostate_Cancer/SpaCET/GMM_Optimal_Threshold_Result.csv",
+    "exists": true,
+    "bytes": 45,
+    "mtime_ns": 1776580840344511759
+  },
+  "spacet_fraction_csv": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/SpaCET_R_Result/Human_Prostate_Cancer/Human_Prostate_Cancer_CellFractions.csv",
+    "exists": true,
+    "bytes": 2396972,
+    "mtime_ns": 1776497311980201415
+  }
+}

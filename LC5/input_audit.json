@@ -1,0 +1,83 @@
+{
+  "files": {
+    "input_h5ad": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/lung_cancer_and_kidney_cancer/LC5.h5ad",
+      "exists": true,
+      "bytes": 65772573,
+      "mtime_ns": 1794314579875171934
+    },
+    "final_h5ad": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/lung_cancer_and_kidney_cancer/LC5/SpaCET_And_My/lung_cancer_and_kidney_cancer_LC5_NicheCompassAndmy_Final_ForComponent.h5ad",
+      "exists": true,
+      "bytes": 89094540,
+      "mtime_ns": 1794402328902916097
+    },
+    "spacet_prediction_csv": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/lung_cancer_and_kidney_cancer/LC5/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+      "exists": true,
+      "bytes": 33942,
+      "mtime_ns": 1794314589027387752
+    },
+    "spacet_threshold_csv": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/lung_cancer_and_kidney_cancer/LC5/SpaCET/GMM_Optimal_Threshold_Result.csv",
+      "exists": true,
+      "bytes": 180,
+      "mtime_ns": 1794314589029387800
+    },
+    "spacet_fraction_csv": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/SpaCET_R_Result/lung_cancer_and_kidney_cancer/LC5/LC5_CellFractions.csv",
+      "exists": true,
+      "bytes": 361719,
+      "mtime_ns": 1779262034352368081
+    }
+  },
+  "complete_shape": [
+    622,
+    17845
+  ],
+  "frozen_shape": [
+    622,
+    3032
+  ],
+  "full_spots_excluded": 0,
+  "valid_gt_spots": 622,
+  "unmapped_gt_counts": {},
+  "pathology_column": "ground_truth",
+  "evaluation_map": {
+    "TUM": 1,
+    "NOR": 0,
+    "TLS": 0,
+    "INFL": 0
+  },
+  "X_profile": {
+    "shape": [
+      622,
+      17845
+    ],
+    "type": "ndarray",
+    "sparse": false,
+    "sample_size": 100000,
+    "sample_all_finite": true,
+    "sample_min": 0.0,
+    "sample_max": 105.0,
+    "sample_integer_like": true,
+    "provenance_note": "数值抽查不能单独证明是未经处理的原始 counts。"
+  },
+  "layers": [],
+  "raw_available": false,
+  "log1p_metadata": null,
+  "freeze": {
+    "spots": "4c0fa21a2e40a4264c51d1a5a414ca75ccbd74b3c8fc0bac4f287d91013f2404",
+    "clusters": "687b4e463574412934183ef05456cc817de6a93bedb7faf0e37229ef961095c3",
+    "graph": "73ab2a8d23c52424b0e03c860e86cb50464cbf4aaa8691e90fc987b75612d91d",
+    "malignant": "565a40edd12e5ea29d3d51ee7915304558e9d119a0449e40406461d3c202ce80"
+  },
+  "prior_source": "/home/zhangjunyi/xiangmu/nichecompass-main/data/pre_data/siyuanzu/my_metabolite_network.csv",
+  "prior_sha256": "d5ea67857e2b002d7913d80fb8d8733102850279799cd769a1a7891ce57d32af",
+  "spacet_prediction_column": "Unsupervised_Pred_0.70",
+  "tumor_threshold": 0.6998,
+  "threshold_prediction_agreement": 1.0,
+  "low_malignancy_gate": 0.5998,
+  "original_union_agreement": 1.0,
+  "fixed_level2_roi": "initial SpaCET Predicted_Tumor, independent of score method"
+}

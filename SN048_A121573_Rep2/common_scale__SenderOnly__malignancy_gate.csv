@@ -1,0 +1,5 @@
+﻿cluster,axes,original_n,remain_n,remain_fraction,cancelled
+13,Lactate,87,87,1.0,False
+20,Lactate,63,9,0.14285714285714285,True
+6,Lactate,107,105,0.9813084112149533,False
+9,Lactate,99,16,0.16161616161616163,True

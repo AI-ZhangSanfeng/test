@@ -1,0 +1,11 @@
+﻿sample_id,status,protocol,reconstruction_matched,eligible_for_initial_final_summary,eligible_for_component_summary
+Human_breast_cancer_ViHBC,failed,TuMeNiche_component_v1.0,False,False,False
+Human_Prostate_Cancer,failed,TuMeNiche_component_v1.0,False,False,False
+B1,failed,TuMeNiche_component_v1.0,False,False,False
+LC1,failed,TuMeNiche_component_v1.0,False,False,False
+LC5,failed,TuMeNiche_component_v1.0,False,False,False
+SN048_A121573_Rep1,failed,TuMeNiche_component_v1.0,False,False,False
+SN048_A121573_Rep2,failed,TuMeNiche_component_v1.0,False,False,False
+SN84_A120838_Rep1,failed,TuMeNiche_component_v1.0,False,False,False
+SN123_A595688_Rep1,failed,TuMeNiche_component_v1.0,False,False,False
+SN124_A595688_Rep2,failed,TuMeNiche_component_v1.0,False,False,False

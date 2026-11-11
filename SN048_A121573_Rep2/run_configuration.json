@@ -1,0 +1,66 @@
+{
+  "protocol": "TuMeNiche_component_v1.0",
+  "engine_sha256": "55c0898a64f189e94b216d529464e78f8e756917e687a818977c81eeeec07101",
+  "sample": {
+    "input_h5ad": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/12_colorectal_cancer_CRC/12_colorectal_cancer_CRC_h5ad/SN048_A121573_Rep2.h5ad",
+    "final_h5ad": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN048_A121573_Rep2/SpaCET_And_My/SN048_A121573_Rep2_NicheCompassAndmy_Final_ForComponent.h5ad",
+    "spacet_fraction_csv": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/SpaCET_R_Result/12_colorectal_cancer_CRC/SN048_A121573_Rep2/SpaCET_CellFractions_Result.csv",
+    "spacet_prediction_csv": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN048_A121573_Rep2/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+    "spacet_threshold_csv": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN048_A121573_Rep2/SpaCET/GMM_Optimal_Threshold_Result.csv",
+    "native_cluster_key": "latent_leiden_0.6",
+    "graph_key": "spatial_connectivities",
+    "pathology_column": "pathology_annotation",
+    "malignant_column": "Malignant",
+    "sample_id": "SN048_A121573_Rep2",
+    "cancer_type": "Colorectal",
+    "gpu": "0",
+    "gate_offset": 0.1,
+    "axis_table_path": "/home/zhangjunyi/xiangmu/nichecompass-main/data/pre_data/siyuanzu/my_metabolite_network.csv",
+    "original_notebook": "myAndSpaCET_SN048_A121573_Rep2(1).ipynb",
+    "original_notebook_sha256": "82af6a9ec430002d670cf55a907c238f33873650da259ed126fac690069410d8",
+    "gt_map": {
+      "tumor": 1,
+      "tumor&stroma_IC med to high": 1,
+      "stroma_fibroblastic_IC high": 0,
+      "epithelium&submucosa": 0,
+      "non neo epithelium": 0,
+      "submucosa": 0,
+      "IC aggregregate_submucosa": 0
+    }
+  },
+  "settings": {
+    "output_root": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/case/TuMeNiche_Component_Contribution",
+    "seed": 42,
+    "strict_reconstruction": true,
+    "force_recompute_aucell": false,
+    "run_scmetabolism_reference": true,
+    "rscript": "Rscript",
+    "scmetabolism_max_dense_gb": 8.0,
+    "scmetabolism_timeout_seconds": 3600,
+    "keep_scmetabolism_matrix": false,
+    "validation_gmt": null,
+    "progeny_net_csv": null,
+    "validation_min_genes": 10,
+    "spot_size": 9,
+    "axes_to_plot": [
+      "Lactate",
+      "Glutamine",
+      "S1P",
+      "LPA"
+    ]
+  },
+  "versions": {
+    "numpy": "1.23.5",
+    "pandas": "1.5.3",
+    "scipy": "1.12.0",
+    "scikit-learn": "1.6.1",
+    "anndata": "0.10.5.post1",
+    "decoupler": "1.4.0",
+    "matplotlib": "3.8.4",
+    "torch": "1.12.1+cu113",
+    "nichecompass": "0.2.0"
+  },
+  "python": "3.9.19 | packaged by conda-forge | (main, Mar 20 2024, 12:50:21) \n[GCC 12.3.0]",
+  "started_utc": "2026-11-11T13:08:33.968229+00:00",
+  "cuda_visible_devices": "0"
+}

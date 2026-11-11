@@ -1,0 +1,7 @@
+﻿score_mode,method,additions_outside_initial_tumor,removed_initial_tumor,added_pathology_tumor,added_pathology_nontumor,added_unmapped_pathology
+original_rules,FullCoupling,265,0,154,64,47
+original_rules,SenderOnly,0,0,0,0,0
+original_rules,AUCellOnly,243,0,211,17,15
+common_scale,FullCoupling,265,0,154,64,47
+common_scale,SenderOnly,214,0,183,17,14
+common_scale,AUCellOnly,243,0,211,17,15

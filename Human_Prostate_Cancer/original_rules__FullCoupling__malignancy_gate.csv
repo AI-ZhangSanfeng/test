@@ -1,0 +1,7 @@
+﻿cluster,axes,original_n,remain_n,remain_fraction,cancelled
+16,Glutamine,65,65,1.0,False
+2,Glutamine,358,358,1.0,False
+3,Glutamine,358,355,0.9916201117318436,False
+5,Glutamine,312,127,0.40705128205128205,True
+6,Glutamine,263,33,0.12547528517110265,True
+9,Glutamine,242,198,0.8181818181818182,False

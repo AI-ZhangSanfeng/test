@@ -1,0 +1,8 @@
+{
+  "level1_mismatch_n": 0,
+  "level2_mismatch_n": 0,
+  "level1_agreement": 1.0,
+  "level2_agreement": 1.0,
+  "status": "matched",
+  "note": "比较规范化后的活跃轴集合与 Level1/2；多轴排列次序不构成差异。"
+}

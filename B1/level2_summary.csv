@@ -1,0 +1,7 @@
+﻿sample_id,n_roi_spots,n_labels,neighbor_agreement,chance_adjusted_neighbor_agreement,score_mode,method,active_fraction_in_fixed_roi,n_active_spots_total,median_cell_fraction_adjusted_eta2,median_cell_fraction_loco_R2
+B1,61,2,1.0,,original_rules,FullCoupling,0.9836065573770492,63,,
+B1,61,2,0.8142857142857143,0.5403524525760466,original_rules,SenderOnly,0.6229508196721312,38,,
+B1,61,3,0.8142857142857143,0.5403524525760466,original_rules,AUCellOnly,0.9836065573770492,63,,
+B1,61,2,1.0,,common_scale,FullCoupling,0.9836065573770492,63,,
+B1,61,2,0.8142857142857143,0.5403524525760466,common_scale,SenderOnly,0.6229508196721312,38,,
+B1,61,3,0.8142857142857143,0.5403524525760466,common_scale,AUCellOnly,0.9836065573770492,63,,

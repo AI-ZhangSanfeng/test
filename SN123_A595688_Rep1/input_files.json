@@ -1,0 +1,32 @@
+{
+  "input_h5ad": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/12_colorectal_cancer_CRC/12_colorectal_cancer_CRC_h5ad/SN123_A595688_Rep1.h5ad",
+    "exists": true,
+    "bytes": 95482929,
+    "mtime_ns": 1794269148855804108
+  },
+  "final_h5ad": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN123_A595688_Rep1/SpaCET_And_My/SN123_A595688_Rep1_NicheCompassAndmy_Final_ForComponent.h5ad",
+    "exists": true,
+    "bytes": 826731960,
+    "mtime_ns": 1794402705384757029
+  },
+  "spacet_prediction_csv": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN123_A595688_Rep1/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+    "exists": true,
+    "bytes": 60123,
+    "mtime_ns": 1794269157348003566
+  },
+  "spacet_threshold_csv": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN123_A595688_Rep1/SpaCET/GMM_Optimal_Threshold_Result.csv",
+    "exists": true,
+    "bytes": 44,
+    "mtime_ns": 1794269157351003636
+  },
+  "spacet_fraction_csv": {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/SpaCET_R_Result/12_colorectal_cancer_CRC/SN123_A595688_Rep1/SpaCET_CellFractions_Result.csv",
+    "exists": true,
+    "bytes": 655407,
+    "mtime_ns": 1775456754443861489
+  }
+}

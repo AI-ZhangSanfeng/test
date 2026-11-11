@@ -1,0 +1,11 @@
+﻿axis,T_high,T_quiet,Method,floor_suppressed
+Lactate,0.222741898945118,0.14370008384721422,GMM (2-Components),False
+Adenosine,0.2340913762486469,0.11796552081994428,GMM (2-Components),False
+PGE2,inf,0.0037313432835820895,Robust Dynamic Fallback,True
+Glutamine,inf,0.04030314605849127,GMM (2-Components),True
+Succinate,inf,0.0,Robust Dynamic Fallback,True
+Kynurenine,inf,0.007696399323629559,Robust Dynamic Fallback,True
+ATP,inf,0.0,Robust Dynamic Fallback,True
+S1P,0.203569239520734,0.028490850770713966,Robust Dynamic Fallback,False
+LPA,0.15498673886043166,0.11439964874714473,GMM (2-Components),False
+Glutamate,0.2824199918514419,0.030180760083336613,Robust Dynamic Fallback,False

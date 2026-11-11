@@ -1,0 +1,6 @@
+﻿cluster,axes,original_n,remain_n,remain_fraction,cancelled
+0,Glutamine,129,15,0.11627906976744186,True
+13,ATP,83,15,0.18072289156626506,True
+18,Adenosine,62,1,0.016129032258064516,True
+3,Kynurenine,110,109,0.990909090909091,False
+6,LPA,106,20,0.18867924528301888,True
