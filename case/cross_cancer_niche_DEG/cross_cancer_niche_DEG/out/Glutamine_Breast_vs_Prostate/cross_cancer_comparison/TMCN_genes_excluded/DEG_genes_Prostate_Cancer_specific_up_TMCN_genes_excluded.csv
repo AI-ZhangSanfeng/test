@@ -1,0 +1,2 @@
+gene,logfoldchanges_Breast_Cancer,pvals_adj_Breast_Cancer,scores_Breast_Cancer,logfoldchanges_Prostate_Cancer,pvals_adj_Prostate_Cancer,scores_Prostate_Cancer,signature_category
+PLA2G2A,-0.6454516,0.9995674293514221,-0.142952,0.34018958,0.0011664550730124182,5.1725626,Prostate_Cancer_specific_up

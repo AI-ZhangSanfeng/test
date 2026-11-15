@@ -1,0 +1,7 @@
+n_genes_tested,n_up,n_down,n_sig_total,dataset,target_niche,analysis_variant,n_case_spots,n_control_spots,preprocess_note
+21714,3057,1371,6288,Breast_Cancer,TMCN_Glutamine_Axis,all_genes,649,1673,normalize_total_log1p
+21668,3049,1363,6264,Breast_Cancer,TMCN_Glutamine_Axis,TMCN_genes_excluded,649,1673,normalize_total_log1p
+21702,3054,1369,6279,Breast_Cancer,TMCN_Glutamine_Axis,current_axis_genes_excluded,649,1673,normalize_total_log1p
+15155,1,0,9,Prostate_Cancer,TMCN_Glutamine_Axis,all_genes,801,671,normalize_total_log1p
+15112,1,0,9,Prostate_Cancer,TMCN_Glutamine_Axis,TMCN_genes_excluded,801,671,normalize_total_log1p
+15143,1,0,9,Prostate_Cancer,TMCN_Glutamine_Axis,current_axis_genes_excluded,801,671,normalize_total_log1p

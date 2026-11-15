@@ -1,0 +1,4 @@
+recommended_source,recommended_scanpy_setting,recommendation,dataset
+adata.X,先 normalize_total + log1p，再 use_raw=False,没有找到明显 log-normalized 矩阵。建议从 adata.X 重新标准化后做 DEG。,Breast_Cancer
+adata.X,先 normalize_total + log1p，再 use_raw=False,没有找到明显 log-normalized 矩阵。建议从 adata.X 重新标准化后做 DEG。,Colorectal_Cancer
+adata.X,先 normalize_total + log1p，再 use_raw=False,没有找到明显 log-normalized 矩阵。建议从 adata.X 重新标准化后做 DEG。,Prostate_Cancer

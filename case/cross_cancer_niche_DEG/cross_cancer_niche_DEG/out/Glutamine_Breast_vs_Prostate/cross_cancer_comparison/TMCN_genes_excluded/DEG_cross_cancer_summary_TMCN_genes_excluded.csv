@@ -1,0 +1,2 @@
+variant,n_shared_genes,pearson_logFC_r,pearson_logFC_p,spearman_logFC_r,spearman_logFC_p,conserved_up,conserved_down,opposite_direction,Breast_Cancer_specific_up,Prostate_Cancer_specific_up
+TMCN_genes_excluded,14367,-0.03950609842875514,2.171903174907527e-06,-0.03692109237145388,9.574082839206288e-06,0,0,0,2735,1

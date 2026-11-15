@@ -1,0 +1,7 @@
+n_genes_tested,n_up,n_down,n_sig_total,dataset,target_niche,analysis_variant,n_case_spots,n_control_spots,preprocess_note
+21714,1369,435,3670,Breast_Cancer,Multi_Axis_Lactate_Glutamine,all_genes,757,1565,normalize_total_log1p
+21668,1363,434,3655,Breast_Cancer,Multi_Axis_Lactate_Glutamine,TMCN_genes_excluded,757,1565,normalize_total_log1p
+21692,1365,435,3658,Breast_Cancer,Multi_Axis_Lactate_Glutamine,current_axis_genes_excluded,757,1565,normalize_total_log1p
+18008,1948,114,2193,Colorectal_Cancer,Multi_Axis_Lactate_Glutamine,all_genes,256,436,normalize_total_log1p
+17962,1940,112,2183,Colorectal_Cancer,Multi_Axis_Lactate_Glutamine,TMCN_genes_excluded,256,436,normalize_total_log1p
+17986,1941,112,2184,Colorectal_Cancer,Multi_Axis_Lactate_Glutamine,current_axis_genes_excluded,256,436,normalize_total_log1p

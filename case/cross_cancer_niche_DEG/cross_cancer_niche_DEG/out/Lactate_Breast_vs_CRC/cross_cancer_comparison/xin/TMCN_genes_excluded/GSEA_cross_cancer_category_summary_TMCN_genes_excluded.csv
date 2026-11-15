@@ -1,0 +1,8 @@
+pathway_category,n_pathways
+not_significant_or_weak,20226
+Breast_Cancer_specific_down_pathway,241
+Breast_Cancer_specific_up_pathway,231
+Colorectal_Cancer_specific_down_pathway,13
+Colorectal_Cancer_specific_up_pathway,3
+opposite_direction_pathway,2
+conserved_down_pathway,1

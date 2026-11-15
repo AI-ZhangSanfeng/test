@@ -1,0 +1,2 @@
+variant,n_shared_genes,pearson_logFC_r,pearson_logFC_p,spearman_logFC_r,spearman_logFC_p,conserved_up,conserved_down,opposite_direction,Breast_Cancer_specific_up,Prostate_Cancer_specific_up
+current_axis_genes_excluded,14398,-0.03950986482945431,2.1131115536962908e-06,-0.037379023171245356,7.245382349828998e-06,0,0,0,2739,1

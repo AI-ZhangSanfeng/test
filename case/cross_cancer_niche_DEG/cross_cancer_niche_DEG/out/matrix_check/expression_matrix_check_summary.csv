@@ -1,0 +1,7 @@
+dataset,matrix,exists,shape,dtype,sparse,min,max,mean,median_nonzero,zero_fraction,negative_fraction,integer_like_fraction_nonzero,matrix_type_guess,suitable_for_scanpy_wilcoxon_DEG,note
+Breast_Cancer,adata.X,True,"(3798, 3049)",float32,True,0.0,3035.0,1.7105250358581543,2.0,0.676309,0.0,1.0,raw_counts_like,Need log-normalization first,高度整数型且最大值较高，像 raw counts。建议 normalize_total + log1p 后再做 DEG。
+Breast_Cancer,adata.raw.X,False,,,,,,,,,,,not_exists,No,adata.raw 不存在。
+Colorectal_Cancer,adata.X,True,"(2052, 3045)",float32,True,0.0,1242.0,1.0174299478530884,1.0,0.732905,0.0,1.0,raw_counts_like,Need log-normalization first,高度整数型且最大值较高，像 raw counts。建议 normalize_total + log1p 后再做 DEG。
+Colorectal_Cancer,adata.raw.X,False,,,,,,,,,,,not_exists,No,adata.raw 不存在。
+Prostate_Cancer,adata.X,True,"(4371, 3047)",float32,True,0.0,421.0,1.0788429975509644,2.0,0.617635,0.0,1.0,raw_counts_like,Need log-normalization first,高度整数型且最大值较高，像 raw counts。建议 normalize_total + log1p 后再做 DEG。
+Prostate_Cancer,adata.raw.X,False,,,,,,,,,,,not_exists,No,adata.raw 不存在。

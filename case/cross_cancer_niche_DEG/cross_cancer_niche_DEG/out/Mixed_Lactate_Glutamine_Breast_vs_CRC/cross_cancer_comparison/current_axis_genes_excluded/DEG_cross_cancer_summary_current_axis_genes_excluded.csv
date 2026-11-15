@@ -1,0 +1,2 @@
+variant,n_shared_genes,pearson_logFC_r,pearson_logFC_p,spearman_logFC_r,spearman_logFC_p,conserved_up,conserved_down,opposite_direction,Breast_Cancer_specific_up,Colorectal_Cancer_specific_up
+current_axis_genes_excluded,17381,0.02617454627136398,0.0005582710147072011,0.0621648412509874,2.3451574600928816e-16,187,11,79,1063,1654

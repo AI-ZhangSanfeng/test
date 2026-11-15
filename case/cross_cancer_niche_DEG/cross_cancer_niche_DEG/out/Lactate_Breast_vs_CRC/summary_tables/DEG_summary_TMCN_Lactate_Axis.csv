@@ -1,0 +1,4 @@
+n_genes_tested,n_up,n_down,n_sig_total,dataset,target_niche,analysis_variant,n_case_spots,n_control_spots,preprocess_note
+18008,0,0,0,Colorectal_Cancer,TMCN_Lactate_Axis,all_genes,89,603,normalize_total_log1p
+17962,0,0,0,Colorectal_Cancer,TMCN_Lactate_Axis,TMCN_genes_excluded,89,603,normalize_total_log1p
+17997,0,0,0,Colorectal_Cancer,TMCN_Lactate_Axis,current_axis_genes_excluded,89,603,normalize_total_log1p

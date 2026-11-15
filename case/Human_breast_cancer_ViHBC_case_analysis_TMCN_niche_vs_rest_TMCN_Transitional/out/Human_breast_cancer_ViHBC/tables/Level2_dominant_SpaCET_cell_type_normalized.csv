@@ -1,0 +1,5 @@
+﻿Level2_Micro_Niche,dominant_spacet_cell_type,dominant_normalized_fraction,dominant_raw_mean_fraction
+Healthy_Region,Malignant,0.19711056690055045,0.2358418021680217
+Multi_Axis_Lactate_Glutamine,Malignant,0.8165841724625508,0.8521218626155879
+TMCN_Glutamine_Axis,Malignant,0.8687525582271527,0.8866640986132512
+TMCN_Transitional,Malignant,0.6429882577928738,0.6923826419213973

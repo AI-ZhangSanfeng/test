@@ -1,0 +1,35 @@
+{
+  "dataset": "Human_breast_cancer_ViHBC",
+  "save_dir": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/case/shiyan1/Human_breast_cancer_ViHBC",
+  "fig_dir": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/case/shiyan1/Human_breast_cancer_ViHBC/figures",
+  "table_dir": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/case/shiyan1/Human_breast_cancer_ViHBC/tables",
+  "h5ad_dir": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/case/shiyan1/Human_breast_cancer_ViHBC/h5ad",
+  "input_original_h5ad": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/Human_breast_cancer/Human_breast_cancer_ViHBC/Human_breast_cancer_integrated.h5ad",
+  "input_result_h5ad": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/Human_breast_cancer_ViHBC/SpaCET_And_My/Human_breast_cancer_ViHBC_NicheCompassAndmy_Final.h5ad",
+  "output_final_case_h5ad": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/case/shiyan1/Human_breast_cancer_ViHBC/h5ad/Human_breast_cancer_ViHBC_breast_case_final_with_analysis.h5ad",
+  "n_spots": 3798,
+  "n_genes": 36601,
+  "malignant_col": "Malignant",
+  "spacet_pred_col": "Unsupervised_Pred_0.53",
+  "n_level2_categories": 5,
+  "tmcn_genes_in_data": 67,
+  "coupling_axes": [
+    "Lactate",
+    "Adenosine",
+    "PGE2",
+    "Glutamine",
+    "Succinate",
+    "Kynurenine",
+    "ATP",
+    "S1P",
+    "LPA",
+    "Glutamate"
+  ],
+  "top_axes_for_communication": [
+    "Glutamine",
+    "Lactate"
+  ],
+  "gene_set_source": "local_MSigDB_v2026_1",
+  "n_gene_sets_used": 25282,
+  "n_permutation": 500
+}
