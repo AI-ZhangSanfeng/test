@@ -1,0 +1,2 @@
+﻿analysis,k,observed_same_fraction,permutation_mean,permutation_std,empirical_pvalue_greater,n_perm
+Tumor_internal_S1P_spatial_clustering_knn_same_fraction,8,0.9134615384615384,0.4035729166666666,0.011176799500450295,0.000999000999000999,1000

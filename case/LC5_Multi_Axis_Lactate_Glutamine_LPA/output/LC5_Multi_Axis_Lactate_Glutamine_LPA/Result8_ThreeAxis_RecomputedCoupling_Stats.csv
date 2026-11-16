@@ -1,0 +1,4 @@
+﻿Axis,Score_Column,Score_Type,Target_Niche_n,Other_Tumor_Regions_n,Target_Niche_mean,Other_Tumor_Regions_mean,Target_Niche_median,Other_Tumor_Regions_median,MannWhitneyU_stat,MannWhitneyU_pvalue
+Lactate,Coupling_Lactate,Recomputed_TuMeNiche_Coupling,67,108,0.2169675413338175,0.016590473825478073,0.19574267393227854,0.0,5825.5,3.8836187263205726e-14
+Glutamine,Coupling_Glutamine,Recomputed_TuMeNiche_Coupling,67,108,0.45115883081358665,0.49662558568993587,0.47094483103514717,0.509219095508069,3322.0,0.3634865581914586
+LPA,Coupling_LPA,Recomputed_TuMeNiche_Coupling,67,108,0.2275318298462489,0.24613474669602906,0.21565381623218108,0.23078753181781583,3368.5,0.44466444422193885
