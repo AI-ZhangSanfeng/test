@@ -1,7 +1,7 @@
 ﻿metric,value
 total_spots,2120.0
 pathology_tumor_spots,772.0
-target_niche_all_spots,312.0
-target_niche_in_pathology_tumor_spots,312.0
-tumor_non_s1p_spots,460.0
+target_niche_all_spots,117.0
+target_niche_in_pathology_tumor_spots,117.0
+tumor_non_s1p_spots,655.0
 target_niche_tumor_overlap_fraction,1.0
