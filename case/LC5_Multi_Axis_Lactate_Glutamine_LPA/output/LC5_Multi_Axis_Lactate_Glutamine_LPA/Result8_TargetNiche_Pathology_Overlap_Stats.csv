@@ -1,10 +1,10 @@
 ﻿metric,value
-target_total_spots,67.0
-target_spots_in_Pathology_Tumor,67.0
+target_total_spots,90.0
+target_spots_in_Pathology_Tumor,90.0
 target_spots_in_Pathology_Non_Tumor,0.0
 target_tumor_overlap_ratio,1.0
-target_ratio_within_Pathology_Tumor,0.21474358974358973
+target_ratio_within_Pathology_Tumor,0.28846153846153844
 target_ratio_within_Pathology_Non_Tumor,0.0
 fisher_exact_odds_ratio,inf
-fisher_exact_pvalue,2.580561342773473e-22
-chi_square_pvalue,1.7665823750424702e-17
+fisher_exact_pvalue,8.93066414183515e-31
+chi_square_pvalue,4.9356241994256296e-24

@@ -3,7 +3,7 @@ sample,LC5
 n_spots,622
 n_genes_raw,17845
 target_niche,Multi_Axis_Lactate_Glutamine_LPA
-target_niche_spots,67
+target_niche_spots,90
 has_spatial_obsm,True
 has_spatial_uns,True
 coupling_cols,

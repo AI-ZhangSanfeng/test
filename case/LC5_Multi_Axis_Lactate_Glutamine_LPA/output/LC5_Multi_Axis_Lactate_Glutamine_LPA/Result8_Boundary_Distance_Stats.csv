@@ -1,2 +1,2 @@
 ﻿comparison,target_n,other_tumor_n,target_mean_distance,other_tumor_mean_distance,target_median_distance,other_tumor_median_distance,mannwhitneyu_stat,mannwhitneyu_pvalue
-Target_Niche_vs_Other_Tumor_Regions,67,108,259.09993039564176,204.9954546156999,263.4528210718238,206.02004829353177,5075.5,7.732924071449773e-06
+Target_Niche_vs_Other_Tumor_Regions,90,88,233.84261028911513,215.39779194437372,237.41019465791925,225.1400319885114,4387.5,0.21412209773951962

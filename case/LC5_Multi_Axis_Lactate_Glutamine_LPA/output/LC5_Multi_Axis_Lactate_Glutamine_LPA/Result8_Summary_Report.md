@@ -6,11 +6,11 @@ This analysis evaluates whether the TuMeNiche-defined `Multi_Axis_Lactate_Glutam
 ## 2. Key quantitative results
 - Total spots analyzed: 622
 - Raw genes used for DEG/GSEA: 17845
-- Target niche spots: 67
-- Target spots in pathology tumor region: 67.0
+- Target niche spots: 90
+- Target spots in pathology tumor region: 90.0
 - Target tumor-overlap ratio: 1.0
 - Fisher exact odds ratio: inf
-- Fisher exact P value: 2.580561342773473e-22
+- Fisher exact P value: 8.93066414183515e-31
 
 ## 3. Interpretation template
 The identification of a `Multi_Axis_Lactate_Glutamine_LPA` niche suggests that TuMeNiche can capture a spatially restricted tumor microenvironment state with simultaneous lactate, glutamine, and LPA-axis activity. Because no patient-level survival, stage, recurrence, or metastasis information is available in this notebook, this result should be interpreted as medically interpretable pathological and functional relevance rather than direct prognostic association.
