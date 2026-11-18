@@ -1,0 +1,38 @@
+{
+  "scope": "Synthetic and source parity only; real school-server data and R branch not executed",
+  "checks": [
+    {
+      "check": "12_notebook_format_and_python39",
+      "status": "passed"
+    },
+    {
+      "check": "BH_matches_statsmodels",
+      "status": "passed"
+    },
+    {
+      "check": "original_Cell7_parity_three_variants",
+      "status": "passed"
+    },
+    {
+      "check": "synthetic_AnnData_end_to_end",
+      "status": "passed"
+    },
+    {
+      "check": "failure_guards_and_partial_reference_summary",
+      "status": "passed"
+    },
+    {
+      "check": "scale_degeneracy_and_grouped_inference",
+      "status": "passed"
+    },
+    {
+      "check": "distinct_legend_colors",
+      "status": "passed"
+    },
+    {
+      "check": "sample_and_summary_exact_cell_sequence_execution_synthetic_AnnData",
+      "status": "passed"
+    }
+  ],
+  "jupyter_transport_test": "Not executed: this workspace prohibits TCP and Unix-socket kernel binding; exact notebook code cells were executed sequentially instead."
+}

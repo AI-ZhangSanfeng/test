@@ -1,0 +1,17 @@
+[
+  {
+    "sample": "SN048_A121573_Rep1",
+    "source_notebook": "myAndSpaCET_SN048_A121573_Rep1(1).ipynb",
+    "cell7_sha256": "06fe49a016982273d2a27c2d2461f5e92224337735861d04357190b010b8b9cf"
+  },
+  {
+    "sample": "lung_cancer_and_kidney_cancer_LC1",
+    "source_notebook": "myAndSpaCET_lung_cancer_and_kidney_cancer_LC1(1).ipynb",
+    "cell7_sha256": "bf423ecb284fbe6e863707b0916b104dbd4ea500f112fcb783ea1a30df9b86e9"
+  },
+  {
+    "sample": "Human_Prostate_Cancer",
+    "source_notebook": "myAndSpaCET_Human_Prostate_Cancer(1).ipynb",
+    "cell7_sha256": "6f93d5cbd61880432a0bc7149a292f26ee8d499cb6ae558ab338b3d7270de048"
+  }
+]
