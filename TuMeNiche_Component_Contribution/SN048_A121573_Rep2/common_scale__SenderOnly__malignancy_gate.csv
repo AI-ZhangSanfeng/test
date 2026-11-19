@@ -1,0 +1,6 @@
+﻿cluster,axes,original_n,remain_n,remain_fraction,cancelled
+11,Lactate,80,80,1.0,False
+20,Lactate,68,67,0.9852941176470589,False
+24,Adenosine,56,0,0.0,True
+26,Lactate,48,47,0.9791666666666666,False
+28,Lactate,42,42,1.0,False

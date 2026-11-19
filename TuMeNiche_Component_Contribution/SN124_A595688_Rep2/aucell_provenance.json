@@ -1,0 +1,11 @@
+{
+  "source": "frozen_h5ad.obsm.aucell_estimate; full spot set preserved",
+  "scaling_spot_count": 356,
+  "unavailable_axes": [],
+  "source_set": "same 10 Source_Genes sets; not original scMetabolism gene sets",
+  "parameters": {
+    "min_n": 1,
+    "use_raw": false,
+    "normalization": "per-axis MinMax before spot alignment"
+  }
+}

@@ -1,0 +1,4 @@
+﻿cluster,axes,original_n,remain_n,remain_fraction,cancelled
+0,Glutamine;LPA,82,67,0.8170731707317073,False
+1,Glutamine;LPA,79,19,0.24050632911392406,True
+3,Lactate;Glutamine;LPA;Glutamate,72,67,0.9305555555555556,False

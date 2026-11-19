@@ -1,0 +1,55 @@
+Traceback (most recent call last):
+  File "/tmp/ipykernel_21140/930583628.py", line 6, in <module>
+    NotebookClient(nb, timeout=7200, kernel_name=KERNEL_NAME, resources={"metadata": {"path": str(NOTEBOOK_DIR)}}).execute()
+  File "/home/zhangjunyi/anaconda3/envs/NicheCompass/lib/python3.9/site-packages/jupyter_core/utils/__init__.py", line 164, in wrapped
+    return _runner_map[name].run(inner)
+  File "/home/zhangjunyi/anaconda3/envs/NicheCompass/lib/python3.9/site-packages/jupyter_core/utils/__init__.py", line 127, in run
+    return fut.result(None)
+  File "/home/zhangjunyi/anaconda3/envs/NicheCompass/lib/python3.9/concurrent/futures/_base.py", line 446, in result
+    return self.__get_result()
+  File "/home/zhangjunyi/anaconda3/envs/NicheCompass/lib/python3.9/concurrent/futures/_base.py", line 391, in __get_result
+    raise self._exception
+  File "/home/zhangjunyi/anaconda3/envs/NicheCompass/lib/python3.9/site-packages/nbclient/client.py", line 709, in async_execute
+    await self.async_execute_cell(
+  File "/home/zhangjunyi/anaconda3/envs/NicheCompass/lib/python3.9/site-packages/nbclient/client.py", line 1062, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "/home/zhangjunyi/anaconda3/envs/NicheCompass/lib/python3.9/site-packages/nbclient/client.py", line 918, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+out = initialize_experiment(CONFIG, SETTINGS, ALL_SAMPLE_IDS)
+ctx = run_stage(out, "load_frozen_inputs", load_frozen_inputs, CONFIG, SETTINGS, out)
+from IPython.display import display
+display(pd.DataFrame([json.loads((out / "input_audit.json").read_text())]).T)
+
+------------------
+
+----- stdout -----
+输出目录: /home/zhangjunyi/xiangmu/nichecompass-main/outputs/case/TuMeNiche_Component_Contribution/SN123_A595688_Rep1
+GPU 环境沿用原 notebook；本实验复用微簇，无 NicheCompass 训练。
+------------------
+
+[0;31m---------------------------------------------------------------------------[0m
+[0;31mKeyError[0m                                  Traceback (most recent call last)
+Cell [0;32mIn[10], line 2[0m
+[1;32m      1[0m out [38;5;241m=[39m initialize_experiment(CONFIG, SETTINGS, ALL_SAMPLE_IDS)
+[0;32m----> 2[0m ctx [38;5;241m=[39m [43mrun_stage[49m[43m([49m[43mout[49m[43m,[49m[43m [49m[38;5;124;43m"[39;49m[38;5;124;43mload_frozen_inputs[39;49m[38;5;124;43m"[39;49m[43m,[49m[43m [49m[43mload_frozen_inputs[49m[43m,[49m[43m [49m[43mCONFIG[49m[43m,[49m[43m [49m[43mSETTINGS[49m[43m,[49m[43m [49m[43mout[49m[43m)[49m
+[1;32m      3[0m [38;5;28;01mfrom[39;00m[38;5;250m [39m[38;5;21;01mIPython[39;00m[38;5;21;01m.[39;00m[38;5;21;01mdisplay[39;00m[38;5;250m [39m[38;5;28;01mimport[39;00m display
+[1;32m      4[0m display(pd[38;5;241m.[39mDataFrame([json[38;5;241m.[39mloads((out [38;5;241m/[39m [38;5;124m"[39m[38;5;124minput_audit.json[39m[38;5;124m"[39m)[38;5;241m.[39mread_text())])[38;5;241m.[39mT)
+
+Cell [0;32mIn[3], line 175[0m, in [0;36mrun_stage[0;34m(out, name, function, *args, **kwargs)[0m
+[1;32m    173[0m [38;5;28;01mdef[39;00m[38;5;250m [39m[38;5;21mrun_stage[39m(out, name, function, [38;5;241m*[39margs, [38;5;241m*[39m[38;5;241m*[39mkwargs):
+[1;32m    174[0m     [38;5;28;01mtry[39;00m:
+[0;32m--> 175[0m         [38;5;28;01mreturn[39;00m [43mfunction[49m[43m([49m[38;5;241;43m*[39;49m[43margs[49m[43m,[49m[43m [49m[38;5;241;43m*[39;49m[38;5;241;43m*[39;49m[43mkwargs[49m[43m)[49m
+[1;32m    176[0m     [38;5;28;01mexcept[39;00m [38;5;167;01mException[39;00m [38;5;28;01mas[39;00m error:
+[1;32m    177[0m         path [38;5;241m=[39m Path(out) [38;5;241m/[39m [38;5;124m"[39m[38;5;124mrun_status.json[39m[38;5;124m"[39m
+
+Cell [0;32mIn[4], line 72[0m, in [0;36mload_frozen_inputs[0;34m(config, settings, out)[0m
+[1;32m     70[0m cluster_key [38;5;241m=[39m config[[38;5;124m"[39m[38;5;124mnative_cluster_key[39m[38;5;124m"[39m]
+[1;32m     71[0m [38;5;28;01mif[39;00m cluster_key [38;5;129;01mnot[39;00m [38;5;129;01min[39;00m frozen[38;5;241m.[39mobs [38;5;129;01mor[39;00m frozen[38;5;241m.[39mobs[cluster_key][38;5;241m.[39misna()[38;5;241m.[39many():
+[0;32m---> 72[0m     [38;5;28;01mraise[39;00m [38;5;167;01mKeyError[39;00m([38;5;124m"[39m[38;5;124m最终结果未保存完整微簇列 [39m[38;5;124m"[39m [38;5;241m+[39m cluster_key [38;5;241m+[39m [38;5;124m"[39m[38;5;124m；需定位已有的正确结果文件。[39m[38;5;124m"[39m)
+[1;32m     73[0m [38;5;28;01mif[39;00m config[[38;5;124m"[39m[38;5;124mgraph_key[39m[38;5;124m"[39m] [38;5;129;01mnot[39;00m [38;5;129;01min[39;00m frozen[38;5;241m.[39mobsp:
+[1;32m     74[0m     [38;5;28;01mraise[39;00m [38;5;167;01mKeyError[39;00m([38;5;124m"[39m[38;5;124m未保存原空间图；实验不自行重建不同的图。[39m[38;5;124m"[39m)
+
+[0;31mKeyError[0m: '最终结果未保存完整微簇列 latent_leiden_0.6；需定位已有的正确结果文件。'
+

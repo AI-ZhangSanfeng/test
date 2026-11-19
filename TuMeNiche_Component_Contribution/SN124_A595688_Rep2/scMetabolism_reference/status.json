@@ -1,0 +1,9 @@
+{
+  "status": "skipped",
+  "implementation": "original R scMetabolism::sc.metabolism",
+  "method": "AUCell",
+  "gene_sets": "package KEGG",
+  "imputation": false,
+  "used_for_10_axis_labels": false,
+  "reason": "Rscript not found; core 10-axis ablation remains valid"
+}

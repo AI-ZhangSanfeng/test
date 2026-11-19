@@ -1,0 +1,199 @@
+﻿score_mode,method,feature,n_microclusters,n_labels,eta2,adjusted_eta2,loco_R2
+original_rules,FullCoupling,SpaCET::CAF,12,1,0.0,0.0,-0.1900826446280992
+original_rules,FullCoupling,SpaCET::Endothelial,12,1,0.0,0.0,-0.1900826446280992
+original_rules,FullCoupling,SpaCET::Plasma,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::B cell,12,1,0.0,0.0,-0.19008264462809876
+original_rules,FullCoupling,SpaCET::T CD4,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::T CD8,12,1,0.0,0.0,-0.1900826446280992
+original_rules,FullCoupling,SpaCET::NK,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::cDC,12,1,0.0,0.0,-0.1900826446280992
+original_rules,FullCoupling,SpaCET::pDC,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::Macrophage,12,1,0.0,0.0,-0.19008264462809965
+original_rules,FullCoupling,SpaCET::Mast,12,1,0.0,0.0,-0.19008264462809965
+original_rules,FullCoupling,SpaCET::Neutrophil,12,1,0.0,0.0,-0.1900826446280992
+original_rules,FullCoupling,SpaCET::B cell naive,12,1,0.0,0.0,-0.1900826446280992
+original_rules,FullCoupling,SpaCET::B cell non-switched memory,12,1,0.0,0.0,-0.1900826446280992
+original_rules,FullCoupling,SpaCET::B cell switched memory,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::B cell exhausted,12,1,0.0,0.0,-0.1900826446280992
+original_rules,FullCoupling,SpaCET::T CD4 naive,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::Th1,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::Th2,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::Th17,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::Tfh,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::Treg,12,1,0.0,0.0,-0.1900826446280992
+original_rules,FullCoupling,SpaCET::T CD8 naive,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::T CD8 central memory,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::T CD8 effector memory,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::T CD8 effector,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::T CD8 exhausted,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::cDC1 CLEC9A,12,1,0.0,0.0,-0.1900826446280992
+original_rules,FullCoupling,SpaCET::cDC2 CD1C,12,1,0.0,0.0,-0.19008264462809943
+original_rules,FullCoupling,SpaCET::cDC3 LAMP3,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::Macrophage M1,12,1,0.0,0.0,-0.19008264462809965
+original_rules,FullCoupling,SpaCET::Macrophage M2,12,1,0.0,0.0,-0.19008264462809898
+original_rules,FullCoupling,SpaCET::Macrophage other,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::CAF,12,1,0.0,0.0,-0.1900826446280992
+original_rules,SenderOnly,SpaCET::Endothelial,12,1,0.0,0.0,-0.1900826446280992
+original_rules,SenderOnly,SpaCET::Plasma,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::B cell,12,1,0.0,0.0,-0.19008264462809876
+original_rules,SenderOnly,SpaCET::T CD4,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::T CD8,12,1,0.0,0.0,-0.1900826446280992
+original_rules,SenderOnly,SpaCET::NK,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::cDC,12,1,0.0,0.0,-0.1900826446280992
+original_rules,SenderOnly,SpaCET::pDC,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::Macrophage,12,1,0.0,0.0,-0.19008264462809965
+original_rules,SenderOnly,SpaCET::Mast,12,1,0.0,0.0,-0.19008264462809965
+original_rules,SenderOnly,SpaCET::Neutrophil,12,1,0.0,0.0,-0.1900826446280992
+original_rules,SenderOnly,SpaCET::B cell naive,12,1,0.0,0.0,-0.1900826446280992
+original_rules,SenderOnly,SpaCET::B cell non-switched memory,12,1,0.0,0.0,-0.1900826446280992
+original_rules,SenderOnly,SpaCET::B cell switched memory,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::B cell exhausted,12,1,0.0,0.0,-0.1900826446280992
+original_rules,SenderOnly,SpaCET::T CD4 naive,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::Th1,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::Th2,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::Th17,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::Tfh,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::Treg,12,1,0.0,0.0,-0.1900826446280992
+original_rules,SenderOnly,SpaCET::T CD8 naive,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::T CD8 central memory,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::T CD8 effector memory,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::T CD8 effector,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::T CD8 exhausted,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::cDC1 CLEC9A,12,1,0.0,0.0,-0.1900826446280992
+original_rules,SenderOnly,SpaCET::cDC2 CD1C,12,1,0.0,0.0,-0.19008264462809943
+original_rules,SenderOnly,SpaCET::cDC3 LAMP3,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::Macrophage M1,12,1,0.0,0.0,-0.19008264462809965
+original_rules,SenderOnly,SpaCET::Macrophage M2,12,1,0.0,0.0,-0.19008264462809898
+original_rules,SenderOnly,SpaCET::Macrophage other,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::CAF,12,1,0.0,0.0,-0.1900826446280992
+original_rules,AUCellOnly,SpaCET::Endothelial,12,1,0.0,0.0,-0.1900826446280992
+original_rules,AUCellOnly,SpaCET::Plasma,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::B cell,12,1,0.0,0.0,-0.19008264462809876
+original_rules,AUCellOnly,SpaCET::T CD4,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::T CD8,12,1,0.0,0.0,-0.1900826446280992
+original_rules,AUCellOnly,SpaCET::NK,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::cDC,12,1,0.0,0.0,-0.1900826446280992
+original_rules,AUCellOnly,SpaCET::pDC,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::Macrophage,12,1,0.0,0.0,-0.19008264462809965
+original_rules,AUCellOnly,SpaCET::Mast,12,1,0.0,0.0,-0.19008264462809965
+original_rules,AUCellOnly,SpaCET::Neutrophil,12,1,0.0,0.0,-0.1900826446280992
+original_rules,AUCellOnly,SpaCET::B cell naive,12,1,0.0,0.0,-0.1900826446280992
+original_rules,AUCellOnly,SpaCET::B cell non-switched memory,12,1,0.0,0.0,-0.1900826446280992
+original_rules,AUCellOnly,SpaCET::B cell switched memory,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::B cell exhausted,12,1,0.0,0.0,-0.1900826446280992
+original_rules,AUCellOnly,SpaCET::T CD4 naive,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::Th1,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::Th2,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::Th17,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::Tfh,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::Treg,12,1,0.0,0.0,-0.1900826446280992
+original_rules,AUCellOnly,SpaCET::T CD8 naive,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::T CD8 central memory,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::T CD8 effector memory,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::T CD8 effector,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::T CD8 exhausted,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::cDC1 CLEC9A,12,1,0.0,0.0,-0.1900826446280992
+original_rules,AUCellOnly,SpaCET::cDC2 CD1C,12,1,0.0,0.0,-0.19008264462809943
+original_rules,AUCellOnly,SpaCET::cDC3 LAMP3,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::Macrophage M1,12,1,0.0,0.0,-0.19008264462809965
+original_rules,AUCellOnly,SpaCET::Macrophage M2,12,1,0.0,0.0,-0.19008264462809898
+original_rules,AUCellOnly,SpaCET::Macrophage other,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::CAF,12,1,0.0,0.0,-0.1900826446280992
+common_scale,FullCoupling,SpaCET::Endothelial,12,1,0.0,0.0,-0.1900826446280992
+common_scale,FullCoupling,SpaCET::Plasma,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::B cell,12,1,0.0,0.0,-0.19008264462809876
+common_scale,FullCoupling,SpaCET::T CD4,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::T CD8,12,1,0.0,0.0,-0.1900826446280992
+common_scale,FullCoupling,SpaCET::NK,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::cDC,12,1,0.0,0.0,-0.1900826446280992
+common_scale,FullCoupling,SpaCET::pDC,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::Macrophage,12,1,0.0,0.0,-0.19008264462809965
+common_scale,FullCoupling,SpaCET::Mast,12,1,0.0,0.0,-0.19008264462809965
+common_scale,FullCoupling,SpaCET::Neutrophil,12,1,0.0,0.0,-0.1900826446280992
+common_scale,FullCoupling,SpaCET::B cell naive,12,1,0.0,0.0,-0.1900826446280992
+common_scale,FullCoupling,SpaCET::B cell non-switched memory,12,1,0.0,0.0,-0.1900826446280992
+common_scale,FullCoupling,SpaCET::B cell switched memory,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::B cell exhausted,12,1,0.0,0.0,-0.1900826446280992
+common_scale,FullCoupling,SpaCET::T CD4 naive,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::Th1,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::Th2,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::Th17,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::Tfh,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::Treg,12,1,0.0,0.0,-0.1900826446280992
+common_scale,FullCoupling,SpaCET::T CD8 naive,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::T CD8 central memory,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::T CD8 effector memory,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::T CD8 effector,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::T CD8 exhausted,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::cDC1 CLEC9A,12,1,0.0,0.0,-0.1900826446280992
+common_scale,FullCoupling,SpaCET::cDC2 CD1C,12,1,0.0,0.0,-0.19008264462809943
+common_scale,FullCoupling,SpaCET::cDC3 LAMP3,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::Macrophage M1,12,1,0.0,0.0,-0.19008264462809965
+common_scale,FullCoupling,SpaCET::Macrophage M2,12,1,0.0,0.0,-0.19008264462809898
+common_scale,FullCoupling,SpaCET::Macrophage other,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::CAF,12,1,0.0,0.0,-0.1900826446280992
+common_scale,SenderOnly,SpaCET::Endothelial,12,1,0.0,0.0,-0.1900826446280992
+common_scale,SenderOnly,SpaCET::Plasma,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::B cell,12,1,0.0,0.0,-0.19008264462809876
+common_scale,SenderOnly,SpaCET::T CD4,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::T CD8,12,1,0.0,0.0,-0.1900826446280992
+common_scale,SenderOnly,SpaCET::NK,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::cDC,12,1,0.0,0.0,-0.1900826446280992
+common_scale,SenderOnly,SpaCET::pDC,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::Macrophage,12,1,0.0,0.0,-0.19008264462809965
+common_scale,SenderOnly,SpaCET::Mast,12,1,0.0,0.0,-0.19008264462809965
+common_scale,SenderOnly,SpaCET::Neutrophil,12,1,0.0,0.0,-0.1900826446280992
+common_scale,SenderOnly,SpaCET::B cell naive,12,1,0.0,0.0,-0.1900826446280992
+common_scale,SenderOnly,SpaCET::B cell non-switched memory,12,1,0.0,0.0,-0.1900826446280992
+common_scale,SenderOnly,SpaCET::B cell switched memory,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::B cell exhausted,12,1,0.0,0.0,-0.1900826446280992
+common_scale,SenderOnly,SpaCET::T CD4 naive,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::Th1,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::Th2,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::Th17,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::Tfh,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::Treg,12,1,0.0,0.0,-0.1900826446280992
+common_scale,SenderOnly,SpaCET::T CD8 naive,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::T CD8 central memory,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::T CD8 effector memory,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::T CD8 effector,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::T CD8 exhausted,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::cDC1 CLEC9A,12,1,0.0,0.0,-0.1900826446280992
+common_scale,SenderOnly,SpaCET::cDC2 CD1C,12,1,0.0,0.0,-0.19008264462809943
+common_scale,SenderOnly,SpaCET::cDC3 LAMP3,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::Macrophage M1,12,1,0.0,0.0,-0.19008264462809965
+common_scale,SenderOnly,SpaCET::Macrophage M2,12,1,0.0,0.0,-0.19008264462809898
+common_scale,SenderOnly,SpaCET::Macrophage other,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::CAF,12,1,0.0,0.0,-0.1900826446280992
+common_scale,AUCellOnly,SpaCET::Endothelial,12,1,0.0,0.0,-0.1900826446280992
+common_scale,AUCellOnly,SpaCET::Plasma,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::B cell,12,1,0.0,0.0,-0.19008264462809876
+common_scale,AUCellOnly,SpaCET::T CD4,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::T CD8,12,1,0.0,0.0,-0.1900826446280992
+common_scale,AUCellOnly,SpaCET::NK,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::cDC,12,1,0.0,0.0,-0.1900826446280992
+common_scale,AUCellOnly,SpaCET::pDC,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::Macrophage,12,1,0.0,0.0,-0.19008264462809965
+common_scale,AUCellOnly,SpaCET::Mast,12,1,0.0,0.0,-0.19008264462809965
+common_scale,AUCellOnly,SpaCET::Neutrophil,12,1,0.0,0.0,-0.1900826446280992
+common_scale,AUCellOnly,SpaCET::B cell naive,12,1,0.0,0.0,-0.1900826446280992
+common_scale,AUCellOnly,SpaCET::B cell non-switched memory,12,1,0.0,0.0,-0.1900826446280992
+common_scale,AUCellOnly,SpaCET::B cell switched memory,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::B cell exhausted,12,1,0.0,0.0,-0.1900826446280992
+common_scale,AUCellOnly,SpaCET::T CD4 naive,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::Th1,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::Th2,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::Th17,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::Tfh,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::Treg,12,1,0.0,0.0,-0.1900826446280992
+common_scale,AUCellOnly,SpaCET::T CD8 naive,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::T CD8 central memory,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::T CD8 effector memory,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::T CD8 effector,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::T CD8 exhausted,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::cDC1 CLEC9A,12,1,0.0,0.0,-0.1900826446280992
+common_scale,AUCellOnly,SpaCET::cDC2 CD1C,12,1,0.0,0.0,-0.19008264462809943
+common_scale,AUCellOnly,SpaCET::cDC3 LAMP3,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::Macrophage M1,12,1,0.0,0.0,-0.19008264462809965
+common_scale,AUCellOnly,SpaCET::Macrophage M2,12,1,0.0,0.0,-0.19008264462809898
+common_scale,AUCellOnly,SpaCET::Macrophage other,12,1,0.0,0.0,-0.19008264462809898

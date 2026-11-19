@@ -1,0 +1,10 @@
+﻿cluster,axes,original_n,remain_n,remain_fraction,cancelled
+11,Lactate;Glutamine,80,80,1.0,False
+13,Glutamine,76,46,0.6052631578947368,False
+17,Lactate,72,59,0.8194444444444444,False
+2,Lactate;Glutamine,109,84,0.7706422018348624,False
+20,Lactate;Glutamine,68,67,0.9852941176470589,False
+23,Lactate;Glutamine,65,58,0.8923076923076924,False
+26,Lactate;Glutamine,48,47,0.9791666666666666,False
+27,Lactate,45,44,0.9777777777777777,False
+28,Lactate;Glutamine,42,42,1.0,False

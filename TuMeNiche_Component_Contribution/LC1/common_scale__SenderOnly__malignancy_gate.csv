@@ -1,0 +1,4 @@
+﻿cluster,axes,original_n,remain_n,remain_fraction,cancelled
+1,Glutamine,168,0,0.0,True
+4,Glutamine,161,6,0.037267080745341616,True
+5,Lactate,156,156,1.0,False

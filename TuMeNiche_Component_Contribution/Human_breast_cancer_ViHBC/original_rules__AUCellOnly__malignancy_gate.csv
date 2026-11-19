@@ -1,0 +1,16 @@
+﻿cluster,axes,original_n,remain_n,remain_fraction,cancelled
+10,Succinate,170,2,0.011764705882352941,True
+12,PGE2;Glutamate,152,152,1.0,False
+13,PGE2;Glutamate,148,147,0.9932432432432432,False
+14,Adenosine;Succinate;Kynurenine;S1P,146,0,0.0,True
+15,Glutamate,145,145,1.0,False
+16,Succinate;S1P;LPA,117,0,0.0,True
+19,Succinate;Kynurenine,108,0,0.0,True
+2,Kynurenine,250,227,0.908,False
+20,Glutamate,93,93,1.0,False
+21,Lactate,82,82,1.0,False
+3,Glutamine,223,222,0.9955156950672646,False
+5,PGE2;Glutamine;Glutamate,206,205,0.9951456310679612,False
+6,Kynurenine,199,130,0.6532663316582915,False
+7,LPA,196,26,0.1326530612244898,True
+8,Lactate,190,190,1.0,False
