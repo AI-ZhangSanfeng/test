@@ -1,0 +1,11 @@
+{
+  "status": "completed",
+  "backend": "local_RStudio",
+  "method": "VISION",
+  "imputation": false,
+  "ncores": 1,
+  "input_fingerprint": "79cb2f55e446343121e458dbcdce4ebe7b869b2f982bb935abd7e54be9a5900a",
+  "gmt_sha256": "754f60c535516449f601a34351f8be0846abe8d86fd0080c77c4d6ceac069262",
+  "result_zip_sha256": "9ff691f359cb94f5a80eff42306a5ff82fdfbebfe5e908fae47fbc8e555690c9",
+  "n_pathways": 79
+}

@@ -1,0 +1,76 @@
+{
+  "files": {
+    "final_h5ad": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/Human_breast_cancer_ViHBC/SpaCET_And_My/Human_breast_cancer_ViHBC_NicheCompassAndmy_Final.h5ad",
+      "exists": true,
+      "bytes": 998350194,
+      "mtime_ns": 1795101368981959963
+    },
+    "upstream_h5ad": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/Human_breast_cancer_ViHBC/SpaCET_And_My/Human_breast_cancer_ViHBC_NicheCompassAndmy_Final_ForComponent.h5ad",
+      "exists": true,
+      "bytes": 999931800,
+      "mtime_ns": 1795101367498924560
+    },
+    "input_h5ad": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/datasets/Human_breast_cancer/Human_breast_cancer_ViHBC/Human_breast_cancer_integrated.h5ad",
+      "exists": true,
+      "bytes": 236234192,
+      "mtime_ns": 1795100981448710405
+    },
+    "prediction_csv": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/Human_breast_cancer_ViHBC/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+      "exists": true,
+      "bytes": 164816,
+      "mtime_ns": 1795100989280897297
+    },
+    "threshold_csv": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/Human_breast_cancer_ViHBC/SpaCET/GMM_Optimal_Threshold_Result.csv",
+      "exists": true,
+      "bytes": 45,
+      "mtime_ns": 1795100989284897392
+    },
+    "axis_table": {
+      "path": "/home/zhangjunyi/xiangmu/nichecompass-main/data/pre_data/siyuanzu/my_metabolite_network.csv",
+      "exists": true,
+      "bytes": 1640,
+      "mtime_ns": 1774419861372453702
+    }
+  },
+  "column_sources": {
+    "latent_leiden_0.6": "upstream_h5ad",
+    "Lactate_Sender_Score": "upstream_h5ad",
+    "Lactate_Receiver_Score": "upstream_h5ad",
+    "Adenosine_Sender_Score": "upstream_h5ad",
+    "Adenosine_Receiver_Score": "upstream_h5ad",
+    "PGE2_Sender_Score": "upstream_h5ad",
+    "PGE2_Receiver_Score": "upstream_h5ad",
+    "Glutamine_Sender_Score": "upstream_h5ad",
+    "Glutamine_Receiver_Score": "upstream_h5ad",
+    "Succinate_Sender_Score": "upstream_h5ad",
+    "Succinate_Receiver_Score": "upstream_h5ad",
+    "Kynurenine_Sender_Score": "upstream_h5ad",
+    "Kynurenine_Receiver_Score": "upstream_h5ad",
+    "ATP_Sender_Score": "upstream_h5ad",
+    "ATP_Receiver_Score": "upstream_h5ad",
+    "S1P_Sender_Score": "upstream_h5ad",
+    "S1P_Receiver_Score": "upstream_h5ad",
+    "LPA_Sender_Score": "upstream_h5ad",
+    "LPA_Receiver_Score": "upstream_h5ad",
+    "Glutamate_Sender_Score": "upstream_h5ad",
+    "Glutamate_Receiver_Score": "upstream_h5ad"
+  },
+  "n_spots": 3798,
+  "n_genes": 36601,
+  "counts_layer": "X",
+  "prediction_column": "Unsupervised_Pred_0.53",
+  "fixed_ROI_n": 2305,
+  "low_malignancy_gate": 0.4282,
+  "freeze": {
+    "spots": "928c929fe215f1e30728e24a2b0f4f17c5a7ee997243cef851d1e09701ac216f",
+    "clusters": "020d91de958a322b350d0126328fd0578bf6f01d167d022999feab30dda53d85",
+    "malignant": "61e75cb2e5a23778faa34d49b18df2ad3d92fbe3a84ec981f9b0a8046a4ca696",
+    "graph": "67d6a95c0cad94c8cf37d096ff29b41024382e637b32234d66551fe79a36453f",
+    "coordinates": "b56e38ee5b5c93606e37205660f8ca8befa52812cc7827bb63e6aeaa29fdfff6"
+  }
+}

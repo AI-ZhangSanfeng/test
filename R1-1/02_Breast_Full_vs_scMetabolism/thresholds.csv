@@ -1,0 +1,5 @@
+﻿axis,T_high,T_quiet,Method,method
+Lactate,0.24215912793694488,0.18050338994829812,GMM (2-Components),FullCoupling
+Glutamine,0.30070895272826537,0.2677405979954947,GMM (2-Components),FullCoupling
+Lactate,0.5389224319058487,0.6565516805831086,GMM (2-Components),scMetabolism_VISION
+Glutamine,0.4726769633605386,0.5491694409009669,GMM (2-Components),scMetabolism_VISION

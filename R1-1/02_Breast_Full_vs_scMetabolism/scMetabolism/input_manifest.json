@@ -1,0 +1,36 @@
+{
+  "schema": "TuMeNiche_R1_1_RStudio_v1",
+  "counts_hash": "3dfb87c788c9b366c56a71612d8b70d185d5292922993fdb2e7642ab1f0b67af",
+  "genes_hash": "313dd422d730ed7f35ad478bcd45e31122e9debd6a3442f2c9d6b46a30aef064",
+  "spot_ids_hash": "928c929fe215f1e30728e24a2b0f4f17c5a7ee997243cef851d1e09701ac216f",
+  "frozen_state": {
+    "spots": "928c929fe215f1e30728e24a2b0f4f17c5a7ee997243cef851d1e09701ac216f",
+    "clusters": "020d91de958a322b350d0126328fd0578bf6f01d167d022999feab30dda53d85",
+    "malignant": "61e75cb2e5a23778faa34d49b18df2ad3d92fbe3a84ec981f9b0a8046a4ca696",
+    "graph": "67d6a95c0cad94c8cf37d096ff29b41024382e637b32234d66551fe79a36453f",
+    "coordinates": "b56e38ee5b5c93606e37205660f8ca8befa52812cc7827bb63e6aeaa29fdfff6"
+  },
+  "method": "VISION",
+  "imputation": false,
+  "metabolism_type": "KEGG",
+  "seed": 42,
+  "ncores": 1,
+  "scmetabolism_commit": "59d6d2b35482013a0ad8bc4db9d588aa8bb37b75",
+  "scmetabolism_version": "0.2.2",
+  "VISION_version": "3.0.2",
+  "rsvd_version": "1.0.5",
+  "native_gmt_sha256": "754f60c535516449f601a34351f8be0846abe8d86fd0080c77c4d6ceac069262",
+  "pathway_mapping": {
+    "Lactate": "Glycolysis / Gluconeogenesis",
+    "Glutamine": "Alanine, aspartate and glutamate metabolism"
+  },
+  "n_spots": 3798,
+  "n_genes": 36601,
+  "fingerprint": "79cb2f55e446343121e458dbcdce4ebe7b869b2f982bb935abd7e54be9a5900a",
+  "files_sha256": {
+    "counts_genes_by_spots.mtx.gz": "68ce2ad433407a3a15053cd143c0512dd8ec6177aefd95a712c3c3466c0e140f",
+    "genes.txt": "7c907999f1283151211fce33bd4d9123ecb5fcda9cb62ff352f31501234c8987",
+    "spot_ids.txt": "a5c0fb670abd154c22a27093bb871e1286a1ab24c4dc196e26e61091988e5a86",
+    "spot_id_mapping.csv": "cc23d1c9408d7fe16f7e312886be5a597c831e7b1eb8e49bab9822681f99cac6"
+  }
+}

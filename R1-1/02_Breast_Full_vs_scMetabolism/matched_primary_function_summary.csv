@@ -1,0 +1,5 @@
+﻿version,method,n_pairs,mean_paired_function_difference,median_paired_function_difference,fraction_case_higher
+all_genes,FullCoupling,218,0.0781781343675,0.0743622020109,0.761467889908
+all_genes,scMetabolism_VISION,65,-0.032288510426,-0.028447141141,0.415384615385
+shared_scoring_genes_excluded,FullCoupling,218,0.0689072426667,0.0774354400503,0.715596330275
+shared_scoring_genes_excluded,scMetabolism_VISION,65,-0.0319684422692,-0.0283345503789,0.384615384615

@@ -1,0 +1,5 @@
+﻿version,feature,adjustment,Full_standardized_difference,scMetabolism_standardized_difference,Full_minus_scMetabolism,n_valid_bootstraps,delta_d_CI_low,delta_d_CI_high
+all_genes,REACTOME_CELL_CYCLE,raw,1.47571881421,-0.349715836518,1.82543465073,998,1.32576121279,2.31670166655
+all_genes,REACTOME_CELL_CYCLE,covariate_adjusted,0.812481995935,-1.07687982573,1.88936182166,998,1.36206536407,2.42298369653
+shared_scoring_genes_excluded,REACTOME_CELL_CYCLE,raw,1.33342051382,-0.299655202464,1.63307571628,998,1.14892292442,2.09976827563
+shared_scoring_genes_excluded,REACTOME_CELL_CYCLE,covariate_adjusted,0.691192544649,-0.956614464597,1.64780700925,998,1.16648612603,2.11802572286

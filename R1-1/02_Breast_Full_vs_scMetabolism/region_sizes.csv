@@ -1,0 +1,9 @@
+﻿method,state,n_spots,fraction_in_fixed_ROI,mean_malignant
+FullCoupling,Glutamine_only,643,0.278958785249,0.890223561431
+FullCoupling,Lactate_related_only,0,0,
+FullCoupling,Joint,746,0.323644251627,0.857516756032
+FullCoupling,Unassigned,916,0.397396963124,0.692382641921
+scMetabolism_VISION,Glutamine_only,82,0.0355748373102,0.940289634146
+scMetabolism_VISION,Lactate_related_only,0,0,
+scMetabolism_VISION,Joint,0,0,
+scMetabolism_VISION,Unassigned,2223,0.96442516269,0.795879442195

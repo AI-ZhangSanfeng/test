@@ -1,0 +1,8 @@
+{
+  "status": "completed",
+  "primary_conclusion": "在本切片、预设细胞周期指标及当前调整条件下，完整耦合的区域内外功能差异较大。",
+  "fixed_ROI_spots": 2305,
+  "primary_delta_standardized_difference": 1.647807009246054,
+  "spatial_block_interval_is_within_section": true,
+  "freeze_passed": true
+}

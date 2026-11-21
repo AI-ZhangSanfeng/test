@@ -1,0 +1,16 @@
+[
+  {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/data/pre_data/GMT/MSigDB/h.all.v2026.1.Hs.symbols.gmt",
+    "exists": true,
+    "bytes": 48686,
+    "mtime_ns": 1778320602361854377,
+    "sha256": "eecaf6dad908334ae885406ec72bdc0646d8917588ed7c219fac92fc5363f596"
+  },
+  {
+    "path": "/home/zhangjunyi/xiangmu/nichecompass-main/data/pre_data/GMT/MSigDB/c2.cp.reactome.v2026.1.Hs.symbols.gmt",
+    "exists": true,
+    "bytes": 898680,
+    "mtime_ns": 1778320602578859519,
+    "sha256": "5d61f289a2400cddfbb3a3353829fd2284a360bbe50f2093b566c4b7bea93341"
+  }
+]

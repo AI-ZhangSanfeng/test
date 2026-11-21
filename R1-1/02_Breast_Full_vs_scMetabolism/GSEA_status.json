@@ -1,0 +1,93 @@
+[
+  {
+    "method": "FullCoupling",
+    "state": "Glutamine_only",
+    "version": "all_genes",
+    "status": "completed",
+    "tested_gene_sets": 1798
+  },
+  {
+    "method": "FullCoupling",
+    "state": "Glutamine_only",
+    "version": "shared_scoring_genes_excluded",
+    "status": "completed",
+    "tested_gene_sets": 1529
+  },
+  {
+    "method": "FullCoupling",
+    "state": "Lactate_related_only",
+    "status": "insufficient_group",
+    "case_n": 0,
+    "rest_n": 2305
+  },
+  {
+    "method": "FullCoupling",
+    "state": "Joint",
+    "version": "all_genes",
+    "status": "completed",
+    "tested_gene_sets": 1798
+  },
+  {
+    "method": "FullCoupling",
+    "state": "Joint",
+    "version": "shared_scoring_genes_excluded",
+    "status": "completed",
+    "tested_gene_sets": 1529
+  },
+  {
+    "method": "FullCoupling",
+    "state": "Unassigned",
+    "version": "all_genes",
+    "status": "completed",
+    "tested_gene_sets": 1798
+  },
+  {
+    "method": "FullCoupling",
+    "state": "Unassigned",
+    "version": "shared_scoring_genes_excluded",
+    "status": "completed",
+    "tested_gene_sets": 1529
+  },
+  {
+    "method": "scMetabolism_VISION",
+    "state": "Glutamine_only",
+    "version": "all_genes",
+    "status": "completed",
+    "tested_gene_sets": 1494
+  },
+  {
+    "method": "scMetabolism_VISION",
+    "state": "Glutamine_only",
+    "version": "shared_scoring_genes_excluded",
+    "status": "completed",
+    "tested_gene_sets": 1236
+  },
+  {
+    "method": "scMetabolism_VISION",
+    "state": "Lactate_related_only",
+    "status": "insufficient_group",
+    "case_n": 0,
+    "rest_n": 2305
+  },
+  {
+    "method": "scMetabolism_VISION",
+    "state": "Joint",
+    "status": "insufficient_group",
+    "case_n": 0,
+    "rest_n": 2305
+  },
+  {
+    "method": "scMetabolism_VISION",
+    "state": "Unassigned",
+    "version": "all_genes",
+    "status": "completed",
+    "tested_gene_sets": 1494
+  },
+  {
+    "method": "scMetabolism_VISION",
+    "state": "Unassigned",
+    "version": "shared_scoring_genes_excluded",
+    "status": "completed",
+    "tested_gene_sets": 1236
+  }
+]

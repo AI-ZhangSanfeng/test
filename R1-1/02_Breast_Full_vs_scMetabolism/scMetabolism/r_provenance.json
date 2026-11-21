@@ -1,0 +1,23 @@
+{
+  "implementation": "scMetabolism::sc.metabolism",
+  "method": "VISION",
+  "imputation": false,
+  "metabolism_type": "KEGG",
+  "seed": 42,
+  "ncores": 1,
+  "package_version": "0.2.2",
+  "VISION_version": "3.0.2",
+  "rsvd_version": "1.0.5",
+  "installed_RemoteSha": "59d6d2b35482013a0ad8bc4db9d588aa8bb37b75",
+  "requested_commit": "59d6d2b35482013a0ad8bc4db9d588aa8bb37b75",
+  "input_fingerprint": "79cb2f55e446343121e458dbcdce4ebe7b869b2f982bb935abd7e54be9a5900a",
+  "n_genes": 36601,
+  "n_spots": 3798,
+  "n_pathways": 79,
+  "R_version": "R version 4.6.0 (2026-04-24 ucrt)",
+  "platform": "x86_64-w64-mingw32",
+  "package_library": "D:/Rlibs/TuMeNiche_scMetabolism/4.6",
+  "backend": "local_RStudio",
+  "input_storage": "dense_matrix",
+  "wrapper_revision": "20261121_sparse_colSums_fix"
+}

@@ -1,0 +1,277 @@
+[
+  {
+    "sample_id": "Human_breast_cancer_ViHBC",
+    "files": {
+      "final_h5ad": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/Human_breast_cancer_ViHBC/SpaCET_And_My/Human_breast_cancer_ViHBC_NicheCompassAndmy_Final.h5ad",
+        "exists": true,
+        "bytes": 998350194,
+        "mtime_ns": 1795101368981959963
+      },
+      "prediction_csv": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/Human_breast_cancer_ViHBC/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+        "exists": true,
+        "bytes": 164816,
+        "mtime_ns": 1795100989280897297
+      }
+    },
+    "prediction_column": "Unsupervised_Pred_0.53",
+    "gt_column": "annot_type",
+    "gt_rule": {
+      "Tumor": 1,
+      "Invasive": 1,
+      "Surrounding tumor": 0,
+      "Healthy": 0
+    },
+    "stdout_rounding_discrepancy": false
+  },
+  {
+    "sample_id": "Human_Prostate_Cancer",
+    "files": {
+      "final_h5ad": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/Human_Prostate_Cancer/SpaCET_And_My/Human_Prostate_Cancer_annotated.h5ad",
+        "exists": true,
+        "bytes": 619749706,
+        "mtime_ns": 1795102609313565979
+      },
+      "prediction_csv": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/test/Human_Prostate_Cancer/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+        "exists": true,
+        "bytes": 237085,
+        "mtime_ns": 1776580840344511759
+      }
+    },
+    "prediction_column": "Unsupervised_Pred_0.72",
+    "gt_column": "Pathology_Annotation",
+    "gt_rule": "prostate_invasive_vs_other",
+    "stdout_rounding_discrepancy": false
+  },
+  {
+    "sample_id": "SN048_A121573_Rep1",
+    "files": {
+      "final_h5ad": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN048_A121573_Rep1/SpaCET_And_My/SN048_A121573_Rep1_NicheCompassAndmy_Final.h5ad",
+        "exists": true,
+        "bytes": 867180854,
+        "mtime_ns": 1795101284942953727
+      },
+      "prediction_csv": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN048_A121573_Rep1/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+        "exists": true,
+        "bytes": 111352,
+        "mtime_ns": 1795101024725743084
+      }
+    },
+    "prediction_column": "Unsupervised_Pred_0.43",
+    "gt_column": "pathology_annotation",
+    "gt_rule": {
+      "tumor": 1,
+      "tumor&stroma_IC med to high": 1,
+      "stroma_fibroblastic_IC high": 0,
+      "epithelium&submucosa": 0,
+      "non neo epithelium": 0,
+      "submucosa": 0,
+      "IC aggregregate_submucosa": 0,
+      "IC aggregate_submucosa": 0,
+      "IC aggregate connective tissue": 0
+    },
+    "stdout_rounding_discrepancy": false
+  },
+  {
+    "sample_id": "SN048_A121573_Rep2",
+    "files": {
+      "final_h5ad": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN048_A121573_Rep2/SpaCET_And_My/SN048_A121573_Rep2_NicheCompassAndmy_Final.h5ad",
+        "exists": true,
+        "bytes": 871260630,
+        "mtime_ns": 1795101324565899633
+      },
+      "prediction_csv": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN048_A121573_Rep2/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+        "exists": true,
+        "bytes": 124452,
+        "mtime_ns": 1795101048416308390
+      }
+    },
+    "prediction_column": "Unsupervised_Pred_0.57",
+    "gt_column": "pathology_annotation",
+    "gt_rule": {
+      "tumor": 1,
+      "tumor&stroma_IC med to high": 1,
+      "stroma_fibroblastic_IC high": 0,
+      "epithelium&submucosa": 0,
+      "non neo epithelium": 0,
+      "submucosa": 0,
+      "IC aggregregate_submucosa": 0
+    },
+    "stdout_rounding_discrepancy": false
+  },
+  {
+    "sample_id": "SN84_A120838_Rep1",
+    "files": {
+      "final_h5ad": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN84_A120838_Rep1/SpaCET_And_My/SN84_A120838_Rep1_NicheCompassAndmy_Final.h5ad",
+        "exists": true,
+        "bytes": 783228602,
+        "mtime_ns": 1795101233926735833
+      },
+      "prediction_csv": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN84_A120838_Rep1/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+        "exists": true,
+        "bytes": 13021,
+        "mtime_ns": 1795101080238067723
+      }
+    },
+    "prediction_column": "Unsupervised_Pred_0.46",
+    "gt_column": "pathology_annotation",
+    "gt_rule": {
+      "tumor&stroma_IC med to high": 1,
+      "tumor": 1,
+      "tumor&stroma_IC low": 1,
+      "stroma_fibroblastic_IC high": 0,
+      "stroma_fibroblastic_IC med": 0,
+      "stroma_fibroblastic_IC low": 0
+    },
+    "stdout_rounding_discrepancy": false
+  },
+  {
+    "sample_id": "SN123_A595688_Rep1",
+    "files": {
+      "final_h5ad": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN123_A595688_Rep1/SpaCET_And_My/SN123_A595688_Rep1_NicheCompassAndmy_Final.h5ad",
+        "exists": true,
+        "bytes": 826622897,
+        "mtime_ns": 1795023091295712913
+      },
+      "prediction_csv": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN123_A595688_Rep1/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+        "exists": true,
+        "bytes": 60123,
+        "mtime_ns": 1795014597584800242
+      }
+    },
+    "prediction_column": "Unsupervised_Pred_0.61",
+    "gt_column": "pathology_annotation",
+    "gt_rule": {
+      "tumor": 1,
+      "tumor&stroma IC med to high": 1,
+      "stroma_fibroblastic_IC high": 0,
+      "epithelium&submucosa": 0,
+      "non neo epithelium": 0,
+      "submucosa": 0,
+      "IC aggregate_submucosa": 0,
+      "stroma_fibroblastic_IC med": 0,
+      "muscularis_IC med to high": 0,
+      "IC aggregate_muscularis or stroma": 0
+    },
+    "stdout_rounding_discrepancy": false
+  },
+  {
+    "sample_id": "SN124_A595688_Rep2",
+    "files": {
+      "final_h5ad": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN124_A595688_Rep2/SpaCET_And_My/SN124_A595688_Rep2_NicheCompassAndmy_Final.h5ad",
+        "exists": true,
+        "bytes": 788699258,
+        "mtime_ns": 1795019329990689520
+      },
+      "prediction_csv": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/colorectal_12_cancer_CRC/SN124_A595688_Rep2/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+        "exists": true,
+        "bytes": 19026,
+        "mtime_ns": 1795014599285840816
+      }
+    },
+    "prediction_column": "Unsupervised_Pred_0.58",
+    "gt_column": "pathology_annotation",
+    "gt_rule": {
+      "tumor": 1,
+      "tumor&stroma_IC med to high": 1,
+      "stroma_fibroblastic_IC high": 0,
+      "stroma_fibroblastic_IC med": 0,
+      "epithelium&submucosa": 0,
+      "non neo epithelium": 0,
+      "muscularis_IC med to high": 0,
+      "IC aggreates_stroma or muscularis": 0
+    },
+    "stdout_rounding_discrepancy": false
+  },
+  {
+    "sample_id": "B1",
+    "files": {
+      "final_h5ad": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/pancreatic_cancer/B1/SpaCET_And_My/pancreatic_cancer_B1_NicheCompassAndmy_Final.h5ad",
+        "exists": true,
+        "bytes": 378256752,
+        "mtime_ns": 1795052008974981373
+      },
+      "prediction_csv": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/pancreatic_cancer/B1/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+        "exists": true,
+        "bytes": 11162,
+        "mtime_ns": 1795048397057731267
+      }
+    },
+    "prediction_column": "Unsupervised_Pred_0.74",
+    "gt_column": "label",
+    "gt_rule": {
+      "invasive cancer": 1,
+      "connective tissue": 0,
+      "adipose tissue": 0,
+      "breast glands": 0
+    },
+    "stdout_rounding_discrepancy": false
+  },
+  {
+    "sample_id": "LC1",
+    "files": {
+      "final_h5ad": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/lung_cancer_and_kidney_cancer/LC1/SpaCET_And_My_AllGenes/lung_cancer_and_kidney_cancer_LC1_NicheCompassAndmy_Final.h5ad",
+        "exists": true,
+        "bytes": 409122797,
+        "mtime_ns": 1795012013112155680
+      },
+      "prediction_csv": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/lung_cancer_and_kidney_cancer/LC1/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+        "exists": true,
+        "bytes": 135223,
+        "mtime_ns": 1795102715812107335
+      }
+    },
+    "prediction_column": "Unsupervised_Pred_0.55",
+    "gt_column": "ground_truth",
+    "gt_rule": {
+      "TUM": 1,
+      "NOR": 0,
+      "TLS": 0,
+      "INFL": 0
+    },
+    "stdout_rounding_discrepancy": false
+  },
+  {
+    "sample_id": "LC5",
+    "files": {
+      "final_h5ad": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/lung_cancer_and_kidney_cancer/LC5/SpaCET_And_My/lung_cancer_and_kidney_cancer_LC5_NicheCompassAndmy_Final.h5ad",
+        "exists": true,
+        "bytes": 389626049,
+        "mtime_ns": 1795095179398389716
+      },
+      "prediction_csv": {
+        "path": "/home/zhangjunyi/xiangmu/nichecompass-main/outputs/lung_cancer_and_kidney_cancer/LC5/SpaCET/GMM_Tumor_NonTumor_Pred_Labels.csv",
+        "exists": true,
+        "bytes": 33942,
+        "mtime_ns": 1795091280086380934
+      }
+    },
+    "prediction_column": "Unsupervised_Pred_0.70",
+    "gt_column": "ground_truth",
+    "gt_rule": {
+      "TUM": 1,
+      "NOR": 0,
+      "TLS": 0,
+      "INFL": 0
+    },
+    "stdout_rounding_discrepancy": false
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "path": "FullCoupling_malignancy_gate.csv",
+    "bytes": 321
+  },
+  {
+    "path": "FullCoupling_scaled_scores.csv",
+    "bytes": 180439
+  },
+  {
+    "path": "GSEA/FullCoupling__Glutamine_only__DEG.csv",
+    "bytes": 1575607
+  },
+  {
+    "path": "GSEA/FullCoupling__Glutamine_only__all_genes__GSEA.csv",
+    "bytes": 421725
+  },
+  {
+    "path": "GSEA/FullCoupling__Glutamine_only__all_genes__rank.csv",
+    "bytes": 429965
+  },
+  {
+    "path": "GSEA/FullCoupling__Glutamine_only__shared_scoring_genes_excluded__GSEA.csv",
+    "bytes": 370672
+  },
+  {
+    "path": "GSEA/FullCoupling__Glutamine_only__shared_scoring_genes_excluded__rank.csv",
+    "bytes": 317245
+  },
+  {
+    "path": "GSEA/FullCoupling__Joint__DEG.csv",
+    "bytes": 1572770
+  },
+  {
+    "path": "GSEA/FullCoupling__Joint__all_genes__GSEA.csv",
+    "bytes": 373574
+  },
+  {
+    "path": "GSEA/FullCoupling__Joint__all_genes__rank.csv",
+    "bytes": 437384
+  },
+  {
+    "path": "GSEA/FullCoupling__Joint__shared_scoring_genes_excluded__GSEA.csv",
+    "bytes": 331592
+  },
+  {
+    "path": "GSEA/FullCoupling__Joint__shared_scoring_genes_excluded__rank.csv",
+    "bytes": 321696
+  },
+  {
+    "path": "GSEA/FullCoupling__Unassigned__DEG.csv",
+    "bytes": 1588633
+  },
+  {
+    "path": "GSEA/FullCoupling__Unassigned__all_genes__GSEA.csv",
+    "bytes": 446377
+  },
+  {
+    "path": "GSEA/FullCoupling__Unassigned__all_genes__rank.csv",
+    "bytes": 433950
+  },
+  {
+    "path": "GSEA/FullCoupling__Unassigned__shared_scoring_genes_excluded__GSEA.csv",
+    "bytes": 388633
+  },
+  {
+    "path": "GSEA/FullCoupling__Unassigned__shared_scoring_genes_excluded__rank.csv",
+    "bytes": 319266
+  },
+  {
+    "path": "GSEA/scMetabolism_VISION__Glutamine_only__DEG.csv",
+    "bytes": 1297846
+  },
+  {
+    "path": "GSEA/scMetabolism_VISION__Glutamine_only__all_genes__GSEA.csv",
+    "bytes": 331465
+  },
+  {
+    "path": "GSEA/scMetabolism_VISION__Glutamine_only__all_genes__rank.csv",
+    "bytes": 203614
+  },
+  {
+    "path": "GSEA/scMetabolism_VISION__Glutamine_only__shared_scoring_genes_excluded__GSEA.csv",
+    "bytes": 282491
+  },
+  {
+    "path": "GSEA/scMetabolism_VISION__Glutamine_only__shared_scoring_genes_excluded__rank.csv",
+    "bytes": 140325
+  },
+  {
+    "path": "GSEA/scMetabolism_VISION__Unassigned__DEG.csv",
+    "bytes": 1308680
+  },
+  {
+    "path": "GSEA/scMetabolism_VISION__Unassigned__all_genes__GSEA.csv",
+    "bytes": 324981
+  },
+  {
+    "path": "GSEA/scMetabolism_VISION__Unassigned__all_genes__rank.csv",
+    "bytes": 206704
+  },
+  {
+    "path": "GSEA/scMetabolism_VISION__Unassigned__shared_scoring_genes_excluded__GSEA.csv",
+    "bytes": 277709
+  },
+  {
+    "path": "GSEA/scMetabolism_VISION__Unassigned__shared_scoring_genes_excluded__rank.csv",
+    "bytes": 142718
+  },
+  {
+    "path": "GSEA_all_results.csv",
+    "bytes": 3548247
+  },
+  {
+    "path": "GSEA_predefined_function_panel.csv",
+    "bytes": 38803
+  },
+  {
+    "path": "GSEA_status.json",
+    "bytes": 2079
+  },
+  {
+    "path": "Level2_transition_Full_vs_scMetabolism.csv",
+    "bytes": 93
+  },
+  {
+    "path": "Result_interpretation.md",
+    "bytes": 838
+  },
+  {
+    "path": "all_spot_comparison_labels.csv",
+    "bytes": 289603
+  },
+  {
+    "path": "cluster_statistics.csv",
+    "bytes": 8063
+  },
+  {
+    "path": "comparison_light.h5ad",
+    "bytes": 841354
+  },
+  {
+    "path": "coupling_numeric_reconstruction.csv",
+    "bytes": 32
+  },
+  {
+    "path": "figures/A_shared_ROI_region_maps.pdf",
+    "bytes": 540171
+  },
+  {
+    "path": "figures/A_shared_ROI_region_maps.png",
+    "bytes": 945266
+  },
+  {
+    "path": "figures/A_shared_ROI_region_maps.svg",
+    "bytes": 1021714
+  },
+  {
+    "path": "figures/B_shared_ROI_continuous_scores.pdf",
+    "bytes": 4242151
+  },
+  {
+    "path": "figures/B_shared_ROI_continuous_scores.png",
+    "bytes": 6273148
+  },
+  {
+    "path": "figures/B_shared_ROI_continuous_scores.svg",
+    "bytes": 6761626
+  },
+  {
+    "path": "figures/C_primary_cell_cycle_effect.pdf",
+    "bytes": 14471
+  },
+  {
+    "path": "figures/C_primary_cell_cycle_effect.png",
+    "bytes": 229097
+  },
+  {
+    "path": "figures/C_primary_cell_cycle_effect.svg",
+    "bytes": 28393
+  },
+  {
+    "path": "figures/D_GSEA_predefined_panel.pdf",
+    "bytes": 111315
+  },
+  {
+    "path": "figures/D_GSEA_predefined_panel.png",
+    "bytes": 656433
+  },
+  {
+    "path": "figures/D_GSEA_predefined_panel.svg",
+    "bytes": 176735
+  },
+  {
+    "path": "figures/E_matched_cell_cycle_difference.pdf",
+    "bytes": 15375
+  },
+  {
+    "path": "figures/E_matched_cell_cycle_difference.png",
+    "bytes": 220790
+  },
+  {
+    "path": "figures/E_matched_cell_cycle_difference.svg",
+    "bytes": 31430
+  },
+  {
+    "path": "freeze_integrity_check.json",
+    "bytes": 891
+  },
+  {
+    "path": "frozen_upstream_obs.csv",
+    "bytes": 581574
+  },
+  {
+    "path": "full_reference_cluster_statistics.csv",
+    "bytes": 10617
+  },
+  {
+    "path": "full_reference_reconstruction.csv",
+    "bytes": 242127
+  },
+  {
+    "path": "full_reference_thresholds.csv",
+    "bytes": 592
+  },
+  {
+    "path": "functional_gene_set_coverage.csv",
+    "bytes": 290260
+  },
+  {
+    "path": "functional_gmt_sources.json",
+    "bytes": 570
+  },
+  {
+    "path": "functional_separation_all.csv",
+    "bytes": 50378
+  },
+  {
+    "path": "input_audit.json",
+    "bytes": 3144
+  },
+  {
+    "path": "matched_primary_function_pairs.csv",
+    "bytes": 91623
+  },
+  {
+    "path": "matched_primary_function_summary.csv",
+    "bytes": 463
+  },
+  {
+    "path": "native_pathway_gene_coverage.csv",
+    "bytes": 809
+  },
+  {
+    "path": "primary_function_comparison.csv",
+    "bytes": 681
+  },
+  {
+    "path": "progeny_human_top500.csv",
+    "bytes": 309646
+  },
+  {
+    "path": "region_sizes.csv",
+    "bytes": 484
+  },
+  {
+    "path": "run_status.json",
+    "bytes": 335
+  },
+  {
+    "path": "scMetabolism/KEGG_metabolism_used.gmt",
+    "bytes": 21439
+  },
+  {
+    "path": "scMetabolism/R_sessionInfo.txt",
+    "bytes": 1794
+  },
+  {
+    "path": "scMetabolism/input_manifest.json",
+    "bytes": 1753
+  },
+  {
+    "path": "scMetabolism/install_scmetabolism.R",
+    "bytes": 1124
+  },
+  {
+    "path": "scMetabolism/r_provenance.json",
+    "bytes": 817
+  },
+  {
+    "path": "scMetabolism/result_checksums.json",
+    "bytes": 654
+  },
+  {
+    "path": "scMetabolism/run.log",
+    "bytes": 32051
+  },
+  {
+    "path": "scMetabolism/run_scmetabolism.R",
+    "bytes": 2815
+  },
+  {
+    "path": "scMetabolism/scmetabolism_function_used.txt",
+    "bytes": 2683
+  },
+  {
+    "path": "scMetabolism/scores.csv",
+    "bytes": 5472945
+  },
+  {
+    "path": "scMetabolism/scores_spots_by_native_pathways.csv",
+    "bytes": 4587611
+  },
+  {
+    "path": "scMetabolism/status.json",
+    "bytes": 403
+  },
+  {
+    "path": "scMetabolism_RStudio/RStudio_Breast_Input.zip",
+    "bytes": 66867237
+  },
+  {
+    "path": "scMetabolism_RStudio/RStudio_Breast_Result.zip",
+    "bytes": 2474371
+  },
+  {
+    "path": "scMetabolism_RStudio/export_status.json",
+    "bytes": 614
+  },
+  {
+    "path": "scMetabolism_RStudio/input_79cb2f55e4463431/counts_genes_by_spots.mtx.gz",
+    "bytes": 66663113
+  },
+  {
+    "path": "scMetabolism_RStudio/input_79cb2f55e4463431/genes.txt",
+    "bytes": 307959
+  },
+  {
+    "path": "scMetabolism_RStudio/input_79cb2f55e4463431/input_manifest.json",
+    "bytes": 1753
+  },
+  {
+    "path": "scMetabolism_RStudio/input_79cb2f55e4463431/spot_id_mapping.csv",
+    "bytes": 121555
+  },
+  {
+    "path": "scMetabolism_RStudio/input_79cb2f55e4463431/spot_ids.txt",
+    "bytes": 49374
+  },
+  {
+    "path": "scMetabolism_VISION_malignancy_gate.csv",
+    "bytes": 71
+  },
+  {
+    "path": "scMetabolism_VISION_scaled_scores.csv",
+    "bytes": 185286
+  },
+  {
+    "path": "shared_scoring_gene_exclusions.csv",
+    "bytes": 134832
+  },
+  {
+    "path": "spot_function_scores.csv",
+    "bytes": 1472336
+  },
+  {
+    "path": "thresholds.csv",
+    "bytes": 370
+  }
+]

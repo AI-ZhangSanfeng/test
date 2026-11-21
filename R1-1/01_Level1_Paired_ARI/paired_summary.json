@@ -1,0 +1,9 @@
+{
+  "n_sections": 10,
+  "initial_mean_ARI": 0.5746685341307349,
+  "final_mean_ARI": 0.5723833109269131,
+  "mean_paired_delta": -0.0022852232038218347,
+  "median_paired_delta": -0.0012287102816807005,
+  "increased": 1,
+  "decreased": 5
+}

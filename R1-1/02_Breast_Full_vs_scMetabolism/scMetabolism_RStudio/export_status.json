@@ -1,0 +1,9 @@
+{
+  "status": "exported",
+  "fingerprint": "79cb2f55e446343121e458dbcdce4ebe7b869b2f982bb935abd7e54be9a5900a",
+  "input_zip": "/home/zhangjunyi/xiangmu/nichecompass-main/TuMeNiche/src/my/Bios_diyicixiugai/output/R1-1/02_Breast_Full_vs_scMetabolism/scMetabolism_RStudio/RStudio_Breast_Input.zip",
+  "zip_sha256": "4db69fffdbcfa6c1a287d89d987ee26be4cc0ccdfaa44a36a99c18f945c743bb",
+  "n_spots": 3798,
+  "n_genes": 36601,
+  "result_upload_path": "/home/zhangjunyi/xiangmu/nichecompass-main/TuMeNiche/src/my/Bios_diyicixiugai/output/R1-1/02_Breast_Full_vs_scMetabolism/scMetabolism_RStudio/RStudio_Breast_Result.zip"
+}
